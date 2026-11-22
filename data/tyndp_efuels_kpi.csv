@@ -1,0 +1,1508 @@
+variant,country,year,section,block,label,flag,unit,value,note
+HEV,AT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,AT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,BE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,BE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,BG,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,BG,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CH,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CH,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CY,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CY,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CZ,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,CZ,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,DE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,DE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,DK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,DK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,EE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,EE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,ES,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,ES,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,EU27,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,22.7991287363178,
+HEV,EU27,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,27.124175169786,
+HEV,FI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,FI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,FR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,FR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,GR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,GR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,HR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,HR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,HU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,HU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,IE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,IE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,IT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,IT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LV,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,LV,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,MT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,MT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,NL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,NL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,PL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,PL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,PT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,PT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,RO,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,RO,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,SK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+HEV,AT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,AT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,BE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,BE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,BG,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,BG,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CH,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CH,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CY,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CY,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CZ,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,CZ,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,DE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,DE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,DK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,DK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,EE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,EE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,ES,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,ES,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,EU27,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,293.2889172000001,
+HEV,EU27,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,505.2913415999999,
+HEV,FI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,FI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,FR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,FR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,GR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,GR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,HR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,HR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,HU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,HU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,IE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,IE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,IT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,IT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LV,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,LV,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,MT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,MT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,NL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,NL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,PL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,PL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,PT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,PT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,RO,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,RO,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,SK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+HEV,AT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,AT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EU27,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+HEV,EU27,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+HEV,FI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,3.97965924,
+HEV,BE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,5.434472549585734,
+HEV,DE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,60.323890029578344,
+HEV,DE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,68.39054076210847,
+HEV,DK,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.79829106397192,
+HEV,DK,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.967382692246074,
+HEV,ES,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,6.904631163803076,
+HEV,ES,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.208282852787686,
+HEV,EU27,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,118.50643584255585,
+HEV,EU27,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,142.93875457507758,
+HEV,FI,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,15.18908814876918,
+HEV,FI,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,16.366024213572125,
+HEV,FR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.969889717383326,
+HEV,FR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,16.481367188641148,
+HEV,GR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,1.0660301738329232,
+HEV,GR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,1.1581445977685039,
+HEV,IE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.5964199452170585,
+HEV,IT,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,10.67853636,
+HEV,IT,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,15.932539718367863,
+HEV,BE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.35255762894849685,
+HEV,BE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.32996485570044404,
+HEV,DE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.46719732035000017,
+HEV,DE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.4227193454,
+HEV,EU27,2035,Consumption,H2,H2 to SNG,R,TWh H2,6.371439367244917,
+HEV,EU27,2040,Consumption,H2,H2 to SNG,R,TWh H2,5.278489281864577,
+HEV,FI,2035,Consumption,H2,H2 to SNG,R,TWh H2,2.09767266563792,
+HEV,FI,2040,Consumption,H2,H2 to SNG,R,TWh H2,1.181990308828916,
+HEV,FR,2035,Consumption,H2,H2 to SNG,R,TWh H2,2.579084647514162,
+HEV,FR,2040,Consumption,H2,H2 to SNG,R,TWh H2,2.3364274791616597,
+HEV,GR,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.1892817032894432,
+HEV,GR,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.235209036078518,
+HEV,IT,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.6856454015048945,
+HEV,IT,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.7721782566950399,
+HEV,BE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,4.332216868948496,
+HEV,BE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,5.764437405286177,
+HEV,DE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,60.79108734992835,
+HEV,DE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,68.81326010750846,
+HEV,DK,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,9.79829106397192,
+HEV,DK,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,9.967382692246074,
+HEV,ES,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,6.904631163803076,
+HEV,ES,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,9.208282852787686,
+HEV,EU27,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,124.87787520980076,
+HEV,EU27,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,148.2172438569422,
+HEV,FI,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,17.2867608144071,
+HEV,FI,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,17.548014522401044,
+HEV,FR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,12.548974364897493,
+HEV,FR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,18.817794667802808,
+HEV,GR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,1.2553118771223664,
+HEV,GR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,1.393353633847022,
+HEV,IE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.5964199452170585,
+HEV,IT,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,11.364181761504895,
+HEV,IT,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,16.704717975062902,
+HEV,AT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,AT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EU27,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,153.61008695744405,
+HEV,EU27,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,324.3238502249226,
+HEV,FI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,AT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,AT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,BG,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CH,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CY,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,CZ,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,DK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,ES,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EU27,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,14.800955032755082,
+HEV,EU27,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,32.75024751813542,
+HEV,FI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,FR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,GR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,HU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,IT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,LV,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,MT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,NL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,PT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,RO,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,SK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+HEV,EU27,2035,FLH,H2,H2 to E-Liquids,R,h,8367.963937273747,
+HEV,EU27,2040,FLH,H2,H2 to E-Liquids,R,h,6070.620893730151,
+HEV,EU27,2035,FLH,H2,H2 to SNG,R,h,6481.191870377896,
+HEV,EU27,2040,FLH,H2,H2 to SNG,R,h,3748.3466919642965,
+HEV,BE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.454299,
+HEV,BE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.8425090000000002,
+HEV,DE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,6.887988,
+HEV,DE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,11.145386000000002,
+HEV,DK,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.158078,
+HEV,DK,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.517481,
+HEV,ES,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.853669,
+HEV,ES,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.342407,
+HEV,EU27,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,14.161919999999999,
+HEV,EU27,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,23.545986,
+HEV,FI,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.169198,
+HEV,FI,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,3.2772690000000004,
+HEV,FR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.138327,
+HEV,FR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.646279,
+HEV,GR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.202457,
+HEV,GR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.336634,
+HEV,IE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.078893,
+HEV,IT,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.219011,
+HEV,IT,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.438021,
+HEV,BE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+HEV,BE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.07245600000000002,
+HEV,DE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.057965,
+HEV,DE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.094193,
+HEV,EU27,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.9830660000000001,
+HEV,EU27,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,1.408218,
+HEV,FI,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.434735,
+HEV,FI,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.463717,
+HEV,FR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.318806,
+HEV,FR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.521682,
+HEV,GR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+HEV,GR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08694700000000002,
+HEV,IT,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08461199999999999,
+HEV,IT,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.169223,
+LEV,AT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,AT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,BE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,BE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,BG,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,BG,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CH,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CH,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CY,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CY,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CZ,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,CZ,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,DE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,DE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,DK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,DK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,EE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,EE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,ES,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,ES,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,EU27,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,24.0715750345807,
+LEV,EU27,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,39.263751001058,
+LEV,FI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,FI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,FR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,FR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,GR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,GR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,HR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,HR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,HU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,HU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,IE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,IE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,IT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,IT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LV,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,LV,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,MT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,MT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,NL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,NL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,PL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,PL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,PT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,PT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,RO,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,RO,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,SK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+LEV,AT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,AT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,BE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,BE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,BG,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,BG,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CH,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CH,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CY,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CY,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CZ,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,CZ,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,DE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,DE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,DK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,DK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,EE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,EE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,ES,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,ES,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,EU27,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,293.2889172000001,
+LEV,EU27,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,505.2913415999999,
+LEV,FI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,FI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,FR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,FR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,GR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,GR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,HR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,HR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,HU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,HU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,IE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,IE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,IT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,IT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LV,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,LV,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,MT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,MT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,NL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,NL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,PL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,PL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,PT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,PT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,RO,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,RO,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,SK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+LEV,AT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,AT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EU27,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+LEV,EU27,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+LEV,FI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,3.97965924,
+LEV,BE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,7.364548927431244,
+LEV,DE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,60.33877487999999,
+LEV,DE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,97.23353466967944,
+LEV,DK,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,10.144668494154482,
+LEV,DK,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,13.233799039424682,
+LEV,ES,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,7.477442924452783,
+LEV,ES,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,11.64889844779205,
+LEV,EU27,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,123.64724348737091,
+LEV,EU27,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,203.46716583115173,
+LEV,FI,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,18.675341547435565,
+LEV,FI,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,26.63481316084244,
+LEV,FR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.971744519999998,
+LEV,FR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,23.091109828767408,
+LEV,GR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,1.7733865904569477,
+LEV,GR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,2.903397797214443,
+LEV,IE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.6076889308711435,
+LEV,IT,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,10.67853636,
+LEV,IT,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,21.357063960000005,
+LEV,BE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.3808322400000001,
+LEV,BE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.6318499433736281,
+LEV,DE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.5077734000000003,
+LEV,DE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.8162765379999999,
+LEV,EU27,2035,Consumption,H2,H2 to SNG,R,TWh H2,8.464629698116443,
+LEV,EU27,2040,Consumption,H2,H2 to SNG,R,TWh H2,11.703798000809993,
+LEV,FI,2035,Consumption,H2,H2 to SNG,R,TWh H2,3.6620861431364435,
+LEV,FI,2040,Consumption,H2,H2 to SNG,R,TWh H2,3.532235627363831,
+LEV,FR,2035,Consumption,H2,H2 to SNG,R,TWh H2,2.792740559999999,
+LEV,FR,2040,Consumption,H2,H2 to SNG,R,TWh H2,4.506314957194434,
+LEV,GR,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.3799962349800001,
+LEV,GR,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.7347274548780982,
+LEV,IT,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.7412011199999999,
+LEV,IT,2040,Consumption,H2,H2 to SNG,R,TWh H2,1.4823934800000003,
+LEV,BE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,4.360491479999999,
+LEV,BE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,7.996398870804872,
+LEV,DE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,60.84654828,
+LEV,DE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,98.04981120767945,
+LEV,DK,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,10.144668494154482,
+LEV,DK,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,13.233799039424682,
+LEV,ES,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,7.477442924452783,
+LEV,ES,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,11.64889844779205,
+LEV,EU27,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,132.11187318548733,
+LEV,EU27,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,215.17096383196173,
+LEV,FI,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,22.33742769057201,
+LEV,FI,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,30.16704878820628,
+LEV,FR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,12.76448508,
+LEV,FR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,27.597424785961845,
+LEV,GR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,2.1533828254369487,
+LEV,GR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,3.6381252520925402,
+LEV,IE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.6076889308711435,
+LEV,IT,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,11.41973748,
+LEV,IT,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,22.839457439999997,
+LEV,AT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,AT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EU27,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,148.46927931262906,
+LEV,EU27,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,263.79543896884826,
+LEV,FI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,AT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,AT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,BG,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CH,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CY,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,CZ,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,DK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,ES,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EU27,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,12.707764701883555,
+LEV,EU27,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,26.324938799190015,
+LEV,FI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,FR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,GR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,HU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,IT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,LV,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,MT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,NL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,PT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,RO,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,SK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+LEV,EU27,2035,FLH,H2,H2 to E-Liquids,R,h,8730.96610398667,
+LEV,EU27,2040,FLH,H2,H2 to E-Liquids,R,h,8641.267595723182,
+LEV,EU27,2035,FLH,H2,H2 to SNG,R,h,8610.438869940004,
+LEV,EU27,2040,FLH,H2,H2 to SNG,R,h,8311.069735516796,
+LEV,BE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.454299,
+LEV,BE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.8425090000000002,
+LEV,DE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,6.887988,
+LEV,DE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,11.145386000000002,
+LEV,DK,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.158078,
+LEV,DK,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.517481,
+LEV,ES,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.853669,
+LEV,ES,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.342407,
+LEV,EU27,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,14.161919999999999,
+LEV,EU27,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,23.545986,
+LEV,FI,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.169198,
+LEV,FI,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,3.2772690000000004,
+LEV,FR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.138327,
+LEV,FR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.646279,
+LEV,GR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.202457,
+LEV,GR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.336634,
+LEV,IE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.078893,
+LEV,IT,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.219011,
+LEV,IT,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.438021,
+LEV,BE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+LEV,BE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.07245600000000002,
+LEV,DE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.057965,
+LEV,DE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.094193,
+LEV,EU27,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.9830660000000001,
+LEV,EU27,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,1.408218,
+LEV,FI,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.434735,
+LEV,FI,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.463717,
+LEV,FR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.318806,
+LEV,FR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.521682,
+LEV,GR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+LEV,GR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08694700000000002,
+LEV,IT,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08461199999999999,
+LEV,IT,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.169223,
+NT+,AT,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,AT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,AT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,AT,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BE,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BE,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BG,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BG,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BG,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,BG,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CH,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CH,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CH,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CH,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CY,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CY,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CY,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CY,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CZ,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CZ,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CZ,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,CZ,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DE,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DE,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DK,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,DK,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,EE,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,EE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,EE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,EE,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,ES,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,ES,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,ES,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,ES,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,EU27,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,8.3222980000197,
+NT+,EU27,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,23.8905012759759,
+NT+,EU27,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,35.940533768760005,
+NT+,EU27,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,79.6539849087711,
+NT+,FI,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FI,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FR,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,FR,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,GR,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,GR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,GR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,GR,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HR,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HR,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HR,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HR,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HU,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,HU,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IE,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IE,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IT,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,IT,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LT,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LT,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LU,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LU,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LU,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LU,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LV,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LV,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LV,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,LV,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,MT,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,MT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,MT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,MT,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,NL,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,NL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,NL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,NL,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PL,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PL,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PL,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PL,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PT,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PT,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PT,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,PT,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,RO,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,RO,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,RO,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,RO,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SE,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SE,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SE,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SE,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SI,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SI,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SI,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SI,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SK,2030,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SK,2035,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SK,2040,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,SK,2050,Consumption,CO2,CO2 to E-Fuels [kt],R,kt,,EU27 level specific
+NT+,AT,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,AT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,AT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,AT,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BE,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BE,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BG,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BG,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BG,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,BG,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CH,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CH,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CH,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CH,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CY,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CY,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CY,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CY,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CZ,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CZ,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CZ,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,CZ,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DE,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DE,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DK,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,DK,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,EE,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,EE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,EE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,EE,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,ES,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,ES,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,ES,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,ES,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,EU27,2030,Consumption,E-Fuels,E-Fuel Demand [TWh H2],I,TWh H2,112.391983272768,
+NT+,EU27,2035,Consumption,E-Fuels,E-Fuel Demand [TWh H2],I,TWh H2,293.2889172000001,
+NT+,EU27,2040,Consumption,E-Fuels,E-Fuel Demand [TWh H2],I,TWh H2,505.2913415999999,
+NT+,EU27,2050,Consumption,E-Fuels,E-Fuel Demand [TWh H2],I,TWh H2,976.4477663999998,
+NT+,FI,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FI,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FR,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,FR,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,GR,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,GR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,GR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,GR,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HR,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HR,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HR,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HR,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HU,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,HU,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IE,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IE,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IT,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,IT,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LT,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LT,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LU,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LU,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LU,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LU,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LV,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LV,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LV,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,LV,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,MT,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,MT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,MT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,MT,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,NL,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,NL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,NL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,NL,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PL,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PL,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PL,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PL,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PT,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PT,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PT,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,PT,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,RO,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,RO,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,RO,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,RO,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SE,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SE,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SE,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SE,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SI,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SI,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SI,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SI,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SK,2030,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SK,2035,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SK,2040,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,SK,2050,Consumption,Fuels,E-Fuel Demand [TWh H2],I,TWh H2,,EU27 level specific
+NT+,AT,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EU27,2030,Consumption,E-Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+NT+,EU27,2035,Consumption,E-Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+NT+,EU27,2040,Consumption,E-Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+NT+,EU27,2050,Consumption,E-Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,0.0,
+NT+,FI,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2030,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2035,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2040,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2050,Consumption,Fuels,E-Fuel Shortage [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.8436295533504983,
+NT+,BE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,3.97965924,
+NT+,BE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,7.039419739528274,
+NT+,BE,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,17.19461855834124,
+NT+,DE,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,22.861748025210282,
+NT+,DE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,60.33877487999999,
+NT+,DE,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,89.36466612858962,
+NT+,DE,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,129.6480734320371,
+NT+,DK,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,6.014195012609534,
+NT+,DK,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,10.141328207505694,
+NT+,DK,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,12.537766713932767,
+NT+,DK,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,18.861960412770383,
+NT+,ES,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,2.8542951938109855,
+NT+,ES,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,7.436745907166388,
+NT+,ES,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,11.178292751608076,
+NT+,ES,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,62.63401264648843,
+NT+,EU27,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,43.499613801970966,
+NT+,EU27,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,122.91536623204348,
+NT+,EU27,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,187.72242584635745,
+NT+,EU27,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,410.93394909996033,
+NT+,FI,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,8.132570883102115,
+NT+,FI,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,18.003388496658218,
+NT+,FI,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,23.065596988372334,
+NT+,FI,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,29.741142836737545,
+NT+,FR,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,2.436300933142589,
+NT+,FR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.971744519999998,
+NT+,FR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,21.722655075083544,
+NT+,FR,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,70.22319365493506,
+NT+,GR,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.3568742007449626,
+NT+,GR,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,1.7632159402994163,
+NT+,GR,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,2.24697921508636,
+NT+,GR,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,9.377056340653365,
+NT+,IE,2030,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.0,
+NT+,IE,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,0.6019726804138184,
+NT+,IT,2035,Consumption,H2,H2 to E-Liquids,R,TWh H2,10.67853636,
+NT+,IT,2040,Consumption,H2,H2 to E-Liquids,R,TWh H2,20.56704923415645,
+NT+,IT,2050,Consumption,H2,H2 to E-Liquids,R,TWh H2,73.25389121799712,
+NT+,BE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.3807532971414501,
+NT+,BE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.5029634296827361,
+NT+,BE,2050,Consumption,H2,H2 to SNG,R,TWh H2,3.0234498108489887,
+NT+,DE,2030,Consumption,H2,H2 to SNG,R,TWh H2,0.07441418050389328,
+NT+,DE,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.5076528328000002,
+NT+,DE,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.644815980296644,
+NT+,DE,2050,Consumption,H2,H2 to SNG,R,TWh H2,0.54828469584,
+NT+,EU27,2030,Consumption,H2,H2 to SNG,R,TWh H2,2.04082731061942,
+NT+,EU27,2035,Consumption,H2,H2 to SNG,R,TWh H2,8.167140315898386,
+NT+,EU27,2040,Consumption,H2,H2 to SNG,R,TWh H2,8.971842391212645,
+NT+,EU27,2050,Consumption,H2,H2 to SNG,R,TWh H2,23.276950803065482,
+NT+,FI,2030,Consumption,H2,H2 to SNG,R,TWh H2,1.6250376974773468,
+NT+,FI,2035,Consumption,H2,H2 to SNG,R,TWh H2,3.4215806921226735,
+NT+,FI,2040,Consumption,H2,H2 to SNG,R,TWh H2,2.560308098887885,
+NT+,FI,2050,Consumption,H2,H2 to SNG,R,TWh H2,3.383923100499723,
+NT+,FR,2030,Consumption,H2,H2 to SNG,R,TWh H2,0.34137543263817977,
+NT+,FR,2035,Consumption,H2,H2 to SNG,R,TWh H2,2.7920202700060557,
+NT+,FR,2040,Consumption,H2,H2 to SNG,R,TWh H2,3.596411451656923,
+NT+,FR,2050,Consumption,H2,H2 to SNG,R,TWh H2,11.171164671331933,
+NT+,GR,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.32405225286820777,
+NT+,GR,2040,Consumption,H2,H2 to SNG,R,TWh H2,0.4957519761553941,
+NT+,GR,2050,Consumption,H2,H2 to SNG,R,TWh H2,0.6766571435111406,
+NT+,IT,2035,Consumption,H2,H2 to SNG,R,TWh H2,0.7410809709599999,
+NT+,IT,2040,Consumption,H2,H2 to SNG,R,TWh H2,1.171591454533062,
+NT+,IT,2050,Consumption,H2,H2 to SNG,R,TWh H2,4.473471381033696,
+NT+,BE,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.8436295533504983,
+NT+,BE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,4.36041253714145,
+NT+,BE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,7.542383169211011,
+NT+,BE,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,20.218068369190227,
+NT+,DE,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,22.936162205714176,
+NT+,DE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,60.846427712799986,
+NT+,DE,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,90.00948210888626,
+NT+,DE,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,130.19635812787712,
+NT+,DK,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,6.014195012609534,
+NT+,DK,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,10.141328207505694,
+NT+,DK,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,12.537766713932767,
+NT+,DK,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,18.861960412770383,
+NT+,ES,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,2.8542951938109855,
+NT+,ES,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,7.436745907166388,
+NT+,ES,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,11.178292751608076,
+NT+,ES,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,62.63401264648843,
+NT+,EU27,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,45.540441112590386,
+NT+,EU27,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,131.0825065479419,
+NT+,EU27,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,196.69426823757007,
+NT+,EU27,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,434.2108999030258,
+NT+,FI,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,9.757608580579463,
+NT+,FI,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,21.424969188780892,
+NT+,FI,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,25.62590508726022,
+NT+,FI,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,33.125065937237274,
+NT+,FR,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,2.777676365780769,
+NT+,FR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,12.763764790006057,
+NT+,FR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,25.31906652674047,
+NT+,FR,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,81.39435832626697,
+NT+,GR,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.3568742007449626,
+NT+,GR,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,2.087268193167625,
+NT+,GR,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,2.742731191241754,
+NT+,GR,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,10.053713484164506,
+NT+,IE,2030,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.0,
+NT+,IE,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,0.6019726804138184,
+NT+,IT,2035,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,11.41961733096,
+NT+,IT,2040,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,21.738640688689514,
+NT+,IT,2050,Energy Balance,H2 -,H2 to eFuels,R,TWh H2,77.72736259903083,
+NT+,AT,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EU27,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,64.44937695202896,
+NT+,EU27,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,149.20115656795642,
+NT+,EU27,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,279.54017895364285,
+NT+,EU27,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,481.66852850003966,
+NT+,FI,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2030,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2035,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2040,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2050,Exchange,E-Fuels,E-Liquid Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,AT,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BE,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,BG,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CH,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CY,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,CZ,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DE,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,DK,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EE,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,ES,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EU27,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,2.40216520814858,
+NT+,EU27,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,13.005254084101612,
+NT+,EU27,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,29.05689440878735,
+NT+,EU27,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,60.56833799693451,
+NT+,FI,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FI,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,FR,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,GR,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HR,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,HU,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IE,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,IT,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LT,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LU,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,LV,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,MT,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,NL,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PL,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,PT,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,RO,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SE,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SI,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2030,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2035,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2040,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,SK,2050,Exchange,E-Fuels,SNG Imports [TWh H2],R,TWh H2,,EU27 level specific
+NT+,EU27,2030,FLH,H2,H2 to E-Liquids,R,h,8065.362613017309,
+NT+,EU27,2035,FLH,H2,H2 to E-Liquids,R,h,8679.286864496024,
+NT+,EU27,2040,FLH,H2,H2 to E-Liquids,R,h,7972.5871682059715,
+NT+,EU27,2050,FLH,H2,H2 to E-Liquids,R,h,8198.846464332772,
+NT+,EU27,2030,FLH,H2,H2 to SNG,R,h,3755.5317547222667,
+NT+,EU27,2035,FLH,H2,H2 to SNG,R,h,8307.825024869528,
+NT+,EU27,2040,FLH,H2,H2 to SNG,R,h,6371.0607244138655,
+NT+,EU27,2050,FLH,H2,H2 to SNG,R,h,6992.817844796032,
+NT+,BE,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.096493,
+NT+,BE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.454299,
+NT+,BE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.8425090000000002,
+NT+,BE,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.9641729999999997,
+NT+,DE,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.695479,
+NT+,DE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,6.887988,
+NT+,DE,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,11.145386000000002,
+NT+,DE,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,15.233036,
+NT+,DK,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.798674,
+NT+,DK,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.158078,
+NT+,DK,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.517481,
+NT+,DK,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.236288,
+NT+,ES,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.364931,
+NT+,ES,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.853669,
+NT+,ES,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.342407,
+NT+,ES,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,7.859269,
+NT+,EU27,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,5.393386,
+NT+,EU27,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,14.161919999999999,
+NT+,EU27,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,23.545986,
+NT+,EU27,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,50.120947,
+NT+,FI,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.986051,
+NT+,FI,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.169198,
+NT+,FI,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,3.2772690000000004,
+NT+,FI,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,4.749890000000001,
+NT+,FR,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.305554,
+NT+,FR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.138327,
+NT+,FR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.646279,
+NT+,FR,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,8.028724,
+NT+,GR,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.123663,
+NT+,GR,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.202457,
+NT+,GR,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.336634,
+NT+,GR,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.551321,
+NT+,IE,2030,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.022541,
+NT+,IE,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,0.078893,
+NT+,IT,2035,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,1.219011,
+NT+,IT,2040,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,2.438021,
+NT+,IT,2050,Installed Capacity,H2,E-Liquids Capacity (from H2),I,GW,8.498246,
+NT+,BE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+NT+,BE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.07245600000000002,
+NT+,BE,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.37676999999999994,
+NT+,DE,2030,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.021737,
+NT+,DE,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.057965,
+NT+,DE,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.094193,
+NT+,DE,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.07245599999999999,
+NT+,EU27,2030,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.5434190000000001,
+NT+,EU27,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.9830660000000001,
+NT+,EU27,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,1.408218,
+NT+,EU27,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,3.328694,
+NT+,FI,2030,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.42024400000000006,
+NT+,FI,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.434735,
+NT+,FI,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.463717,
+NT+,FI,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.724558,
+NT+,FR,2030,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.10143799999999999,
+NT+,FR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.318806,
+NT+,FR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.521682,
+NT+,FR,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,1.420135,
+NT+,GR,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.043474,
+NT+,GR,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08694700000000002,
+NT+,GR,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.14491199999999999,
+NT+,IT,2035,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.08461199999999999,
+NT+,IT,2040,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.169223,
+NT+,IT,2050,Installed Capacity,H2,SNG Capacity (from H2),I,GW,0.589863,

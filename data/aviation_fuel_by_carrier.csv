@@ -1,0 +1,1345 @@
+variant,country,year,subsector,carrier,twh
+HEV,AT,2035,International aviation,Electricity,0.0
+HEV,AT,2035,International aviation,Hydrogen,0.0
+HEV,AT,2035,International aviation,Liquids,7.887876468
+HEV,AT,2035,Planes,Electricity,0.0
+HEV,AT,2035,Planes,Hydrogen,0.0
+HEV,AT,2035,Planes,Liquids,0.0
+HEV,AT,2040,International aviation,Electricity,0.0
+HEV,AT,2040,International aviation,Hydrogen,0.0
+HEV,AT,2040,International aviation,Liquids,5.251466433
+HEV,AT,2040,Planes,Electricity,0.0
+HEV,AT,2040,Planes,Hydrogen,0.0
+HEV,AT,2040,Planes,Liquids,0.0
+HEV,BE,2035,International aviation,Electricity,0.0
+HEV,BE,2035,International aviation,Hydrogen,0.0
+HEV,BE,2035,International aviation,Liquids,22.80306222
+HEV,BE,2035,Planes,Electricity,0.0
+HEV,BE,2035,Planes,Hydrogen,0.0
+HEV,BE,2035,Planes,Liquids,0.036938111
+HEV,BE,2040,International aviation,Electricity,0.0
+HEV,BE,2040,International aviation,Hydrogen,0.135628001
+HEV,BE,2040,International aviation,Liquids,23.70455822
+HEV,BE,2040,Planes,Electricity,0.0
+HEV,BE,2040,Planes,Hydrogen,0.0
+HEV,BE,2040,Planes,Liquids,0.0
+HEV,BG,2035,International aviation,Electricity,0.0
+HEV,BG,2035,International aviation,Hydrogen,0.0
+HEV,BG,2035,International aviation,Liquids,2.561572656
+HEV,BG,2035,Planes,Electricity,0.0
+HEV,BG,2035,Planes,Hydrogen,0.0
+HEV,BG,2035,Planes,Liquids,0.081666841
+HEV,BG,2040,International aviation,Electricity,0.0
+HEV,BG,2040,International aviation,Hydrogen,0.0
+HEV,BG,2040,International aviation,Liquids,2.483619801
+HEV,BG,2040,Planes,Electricity,0.0
+HEV,BG,2040,Planes,Hydrogen,0.0
+HEV,BG,2040,Planes,Liquids,0.061122604
+HEV,CH,2035,International aviation,Electricity,0.0
+HEV,CH,2035,International aviation,Hydrogen,0.0
+HEV,CH,2035,International aviation,Liquids,22.11357553
+HEV,CH,2035,Planes,Electricity,0.0
+HEV,CH,2035,Planes,Hydrogen,0.0
+HEV,CH,2035,Planes,Liquids,0.564179086
+HEV,CH,2040,International aviation,Electricity,0.0
+HEV,CH,2040,International aviation,Hydrogen,0.0
+HEV,CH,2040,International aviation,Liquids,20.34742106
+HEV,CH,2040,Planes,Electricity,0.0
+HEV,CH,2040,Planes,Hydrogen,0.0
+HEV,CH,2040,Planes,Liquids,0.594645544
+HEV,CY,2035,International aviation,Electricity,0.0
+HEV,CY,2035,International aviation,Hydrogen,0.0
+HEV,CY,2035,International aviation,Liquids,3.332606205
+HEV,CY,2035,Planes,Electricity,0.0
+HEV,CY,2035,Planes,Hydrogen,0.0
+HEV,CY,2035,Planes,Liquids,0.0
+HEV,CY,2040,International aviation,Electricity,0.0
+HEV,CY,2040,International aviation,Hydrogen,0.0
+HEV,CY,2040,International aviation,Liquids,3.105182352
+HEV,CY,2040,Planes,Electricity,0.0
+HEV,CY,2040,Planes,Hydrogen,0.0
+HEV,CY,2040,Planes,Liquids,0.0
+HEV,CZ,2035,International aviation,Electricity,0.0
+HEV,CZ,2035,International aviation,Hydrogen,0.0
+HEV,CZ,2035,International aviation,Liquids,4.412567998
+HEV,CZ,2035,Planes,Electricity,0.013927918
+HEV,CZ,2035,Planes,Hydrogen,0.017039415
+HEV,CZ,2035,Planes,Liquids,0.210061638
+HEV,CZ,2040,International aviation,Electricity,0.0
+HEV,CZ,2040,International aviation,Hydrogen,0.0
+HEV,CZ,2040,International aviation,Liquids,4.278286321
+HEV,CZ,2040,Planes,Electricity,0.022696544
+HEV,CZ,2040,Planes,Hydrogen,0.02897421
+HEV,CZ,2040,Planes,Liquids,0.164572378
+HEV,DE,2035,International aviation,Electricity,0.0
+HEV,DE,2035,International aviation,Hydrogen,0.0
+HEV,DE,2035,International aviation,Liquids,137.1568797
+HEV,DE,2035,Planes,Electricity,0.245120744
+HEV,DE,2035,Planes,Hydrogen,0.273804125
+HEV,DE,2035,Planes,Liquids,3.981303539
+HEV,DE,2040,International aviation,Electricity,0.0
+HEV,DE,2040,International aviation,Hydrogen,0.0
+HEV,DE,2040,International aviation,Liquids,142.3928265
+HEV,DE,2040,Planes,Electricity,0.424926545
+HEV,DE,2040,Planes,Hydrogen,0.474650327
+HEV,DE,2040,Planes,Liquids,3.20438292
+HEV,DK,2035,International aviation,Electricity,0.0
+HEV,DK,2035,International aviation,Hydrogen,0.0
+HEV,DK,2035,International aviation,Liquids,11.39936655
+HEV,DK,2035,Planes,Electricity,0.028442988
+HEV,DK,2035,Planes,Hydrogen,0.0
+HEV,DK,2035,Planes,Liquids,0.354732417
+HEV,DK,2040,International aviation,Electricity,0.0
+HEV,DK,2040,International aviation,Hydrogen,0.0
+HEV,DK,2040,International aviation,Liquids,11.42617125
+HEV,DK,2040,Planes,Electricity,0.047936077
+HEV,DK,2040,Planes,Hydrogen,0.0
+HEV,DK,2040,Planes,Liquids,0.291970505
+HEV,EE,2035,International aviation,Electricity,0.0
+HEV,EE,2035,International aviation,Hydrogen,0.0
+HEV,EE,2035,International aviation,Liquids,0.753082597
+HEV,EE,2035,Planes,Electricity,0.000923524
+HEV,EE,2035,Planes,Hydrogen,0.001129839
+HEV,EE,2035,Planes,Liquids,0.013928638
+HEV,EE,2040,International aviation,Electricity,0.0
+HEV,EE,2040,International aviation,Hydrogen,0.0
+HEV,EE,2040,International aviation,Liquids,0.782818624
+HEV,EE,2040,Planes,Electricity,0.002659542
+HEV,EE,2040,Planes,Hydrogen,0.003395147
+HEV,EE,2040,Planes,Liquids,0.019284304
+HEV,ES,2035,International aviation,Electricity,0.0
+HEV,ES,2035,International aviation,Hydrogen,0.0
+HEV,ES,2035,International aviation,Liquids,68.83781342
+HEV,ES,2035,Planes,Electricity,0.0
+HEV,ES,2035,Planes,Hydrogen,0.0
+HEV,ES,2035,Planes,Liquids,25.05680733
+HEV,ES,2040,International aviation,Electricity,0.0
+HEV,ES,2040,International aviation,Hydrogen,0.0
+HEV,ES,2040,International aviation,Liquids,87.18331854
+HEV,ES,2040,Planes,Electricity,0.0
+HEV,ES,2040,Planes,Hydrogen,0.0
+HEV,ES,2040,Planes,Liquids,24.2942879
+HEV,FI,2035,International aviation,Electricity,0.0
+HEV,FI,2035,International aviation,Hydrogen,0.0
+HEV,FI,2035,International aviation,Liquids,8.846926455
+HEV,FI,2035,Planes,Electricity,0.0
+HEV,FI,2035,Planes,Hydrogen,0.0
+HEV,FI,2035,Planes,Liquids,0.708290574
+HEV,FI,2040,International aviation,Electricity,0.0
+HEV,FI,2040,International aviation,Hydrogen,0.0
+HEV,FI,2040,International aviation,Liquids,8.577699982
+HEV,FI,2040,Planes,Electricity,0.0
+HEV,FI,2040,Planes,Hydrogen,0.0
+HEV,FI,2040,Planes,Liquids,0.686736131
+HEV,FR,2035,International aviation,Electricity,0.0
+HEV,FR,2035,International aviation,Hydrogen,0.0
+HEV,FR,2035,International aviation,Liquids,78.97052107
+HEV,FR,2035,Planes,Electricity,0.0
+HEV,FR,2035,Planes,Hydrogen,0.041254127
+HEV,FR,2035,Planes,Liquids,14.92161382
+HEV,FR,2040,International aviation,Electricity,0.0
+HEV,FR,2040,International aviation,Hydrogen,0.0
+HEV,FR,2040,International aviation,Liquids,75.93730641
+HEV,FR,2040,Planes,Electricity,0.0
+HEV,FR,2040,Planes,Hydrogen,0.075085471
+HEV,FR,2040,Planes,Liquids,13.51096652
+HEV,GR,2035,International aviation,Electricity,0.0
+HEV,GR,2035,International aviation,Hydrogen,0.0
+HEV,GR,2035,International aviation,Liquids,14.62225616
+HEV,GR,2035,Planes,Electricity,0.0
+HEV,GR,2035,Planes,Hydrogen,0.0
+HEV,GR,2035,Planes,Liquids,11.15109118
+HEV,GR,2040,International aviation,Electricity,0.033662144
+HEV,GR,2040,International aviation,Hydrogen,0.0
+HEV,GR,2040,International aviation,Liquids,14.75270796
+HEV,GR,2040,Planes,Electricity,0.0
+HEV,GR,2040,Planes,Hydrogen,0.0
+HEV,GR,2040,Planes,Liquids,3.759717628
+HEV,HR,2035,International aviation,Electricity,0.0
+HEV,HR,2035,International aviation,Hydrogen,0.0
+HEV,HR,2035,International aviation,Liquids,2.102769001
+HEV,HR,2035,Planes,Electricity,0.003680479
+HEV,HR,2035,Planes,Hydrogen,0.004502698
+HEV,HR,2035,Planes,Liquids,0.055509189
+HEV,HR,2040,International aviation,Electricity,0.0
+HEV,HR,2040,International aviation,Hydrogen,0.0
+HEV,HR,2040,International aviation,Liquids,2.038778294
+HEV,HR,2040,Planes,Electricity,0.004921901
+HEV,HR,2040,Planes,Hydrogen,0.006283256
+HEV,HR,2040,Planes,Liquids,0.035688647
+HEV,HU,2035,International aviation,Electricity,0.0
+HEV,HU,2035,International aviation,Hydrogen,0.0
+HEV,HU,2035,International aviation,Liquids,2.943206633
+HEV,HU,2035,Planes,Electricity,0.0
+HEV,HU,2035,Planes,Hydrogen,0.0
+HEV,HU,2035,Planes,Liquids,0.022661084
+HEV,HU,2040,International aviation,Electricity,0.0
+HEV,HU,2040,International aviation,Hydrogen,0.0
+HEV,HU,2040,International aviation,Liquids,2.853640031
+HEV,HU,2040,Planes,Electricity,0.0
+HEV,HU,2040,Planes,Hydrogen,0.000740316
+HEV,HU,2040,Planes,Liquids,0.020581803
+HEV,IE,2035,International aviation,Electricity,0.0
+HEV,IE,2035,International aviation,Hydrogen,0.0
+HEV,IE,2035,International aviation,Liquids,11.69806513
+HEV,IE,2035,Planes,Electricity,0.001536156
+HEV,IE,2035,Planes,Hydrogen,0.001879333
+HEV,IE,2035,Planes,Liquids,0.023168394
+HEV,IE,2040,International aviation,Electricity,0.0
+HEV,IE,2040,International aviation,Hydrogen,0.0
+HEV,IE,2040,International aviation,Liquids,19.79528078
+HEV,IE,2040,Planes,Electricity,0.0
+HEV,IE,2040,Planes,Hydrogen,0.0
+HEV,IE,2040,Planes,Liquids,0.0
+HEV,IT,2035,International aviation,Electricity,0.0
+HEV,IT,2035,International aviation,Hydrogen,0.728498905
+HEV,IT,2035,International aviation,Liquids,46.47600341
+HEV,IT,2035,Planes,Electricity,0.268814341
+HEV,IT,2035,Planes,Hydrogen,0.168151359
+HEV,IT,2035,Planes,Liquids,20.97791467
+HEV,IT,2040,International aviation,Electricity,0.0
+HEV,IT,2040,International aviation,Hydrogen,1.080463299
+HEV,IT,2040,International aviation,Liquids,46.49813422
+HEV,IT,2040,Planes,Electricity,0.596157575
+HEV,IT,2040,Planes,Hydrogen,0.266367344
+HEV,IT,2040,Planes,Liquids,22.51278629
+HEV,LT,2035,International aviation,Electricity,0.0
+HEV,LT,2035,International aviation,Hydrogen,0.0
+HEV,LT,2035,International aviation,Liquids,1.299200524
+HEV,LT,2035,Planes,Electricity,0.0
+HEV,LT,2035,Planes,Hydrogen,0.0
+HEV,LT,2035,Planes,Liquids,0.005093115
+HEV,LT,2040,International aviation,Electricity,0.0
+HEV,LT,2040,International aviation,Hydrogen,0.0
+HEV,LT,2040,International aviation,Liquids,1.259663723
+HEV,LT,2040,Planes,Electricity,0.0
+HEV,LT,2040,Planes,Hydrogen,0.0
+HEV,LT,2040,Planes,Liquids,0.005018024
+HEV,LU,2035,International aviation,Electricity,0.0
+HEV,LU,2035,International aviation,Hydrogen,0.0
+HEV,LU,2035,International aviation,Liquids,0.0
+HEV,LU,2035,Planes,Electricity,0.0
+HEV,LU,2035,Planes,Hydrogen,0.0
+HEV,LU,2035,Planes,Liquids,0.0
+HEV,LU,2040,International aviation,Electricity,0.0
+HEV,LU,2040,International aviation,Hydrogen,0.0
+HEV,LU,2040,International aviation,Liquids,0.0
+HEV,LU,2040,Planes,Electricity,0.0
+HEV,LU,2040,Planes,Hydrogen,0.0
+HEV,LU,2040,Planes,Liquids,0.0
+HEV,LV,2035,International aviation,Electricity,0.0
+HEV,LV,2035,International aviation,Hydrogen,0.0
+HEV,LV,2035,International aviation,Liquids,1.652741667
+HEV,LV,2035,Planes,Electricity,0.0
+HEV,LV,2035,Planes,Hydrogen,0.0
+HEV,LV,2035,Planes,Liquids,0.002122431
+HEV,LV,2040,International aviation,Electricity,0.0
+HEV,LV,2040,International aviation,Hydrogen,0.0
+HEV,LV,2040,International aviation,Liquids,1.602446029
+HEV,LV,2040,Planes,Electricity,0.0
+HEV,LV,2040,Planes,Hydrogen,0.0
+HEV,LV,2040,Planes,Liquids,0.002057842
+HEV,MT,2035,International aviation,Electricity,0.0
+HEV,MT,2035,International aviation,Hydrogen,0.0
+HEV,MT,2035,International aviation,Liquids,1.736357396
+HEV,MT,2035,Planes,Electricity,0.0
+HEV,MT,2035,Planes,Hydrogen,0.0
+HEV,MT,2035,Planes,Liquids,0.006531601
+HEV,MT,2040,International aviation,Electricity,0.0
+HEV,MT,2040,International aviation,Hydrogen,0.0
+HEV,MT,2040,International aviation,Liquids,1.683517195
+HEV,MT,2040,Planes,Electricity,0.0
+HEV,MT,2040,Planes,Hydrogen,0.0
+HEV,MT,2040,Planes,Liquids,0.006332834
+HEV,NL,2035,International aviation,Electricity,0.0
+HEV,NL,2035,International aviation,Hydrogen,0.0
+HEV,NL,2035,International aviation,Liquids,41.84225927
+HEV,NL,2035,Planes,Electricity,0.0
+HEV,NL,2035,Planes,Hydrogen,0.0
+HEV,NL,2035,Planes,Liquids,0.242826191
+HEV,NL,2040,International aviation,Electricity,0.0
+HEV,NL,2040,International aviation,Hydrogen,2.309586
+HEV,NL,2040,International aviation,Liquids,38.54048419
+HEV,NL,2040,Planes,Electricity,0.006000088
+HEV,NL,2040,Planes,Hydrogen,0.02680881
+HEV,NL,2040,Planes,Liquids,0.182262837
+HEV,PL,2035,International aviation,Electricity,0.0
+HEV,PL,2035,International aviation,Hydrogen,0.0
+HEV,PL,2035,International aviation,Liquids,11.33674157
+HEV,PL,2035,Planes,Electricity,0.0
+HEV,PL,2035,Planes,Hydrogen,0.0
+HEV,PL,2035,Planes,Liquids,0.362526836
+HEV,PL,2040,International aviation,Electricity,0.0
+HEV,PL,2040,International aviation,Hydrogen,0.0
+HEV,PL,2040,International aviation,Liquids,10.99174594
+HEV,PL,2040,Planes,Electricity,0.0
+HEV,PL,2040,Planes,Hydrogen,0.0
+HEV,PL,2040,Planes,Liquids,0.3533879
+HEV,PT,2035,International aviation,Electricity,0.0
+HEV,PT,2035,International aviation,Hydrogen,0.0
+HEV,PT,2035,International aviation,Liquids,15.36154658
+HEV,PT,2035,Planes,Electricity,0.0
+HEV,PT,2035,Planes,Hydrogen,0.0
+HEV,PT,2035,Planes,Liquids,1.753514489
+HEV,PT,2040,International aviation,Electricity,0.0
+HEV,PT,2040,International aviation,Hydrogen,0.0
+HEV,PT,2040,International aviation,Liquids,14.89406954
+HEV,PT,2040,Planes,Electricity,0.0
+HEV,PT,2040,Planes,Hydrogen,0.0
+HEV,PT,2040,Planes,Liquids,1.700152169
+HEV,RO,2035,International aviation,Electricity,0.0
+HEV,RO,2035,International aviation,Hydrogen,0.0
+HEV,RO,2035,International aviation,Liquids,1.607814823
+HEV,RO,2035,Planes,Electricity,0.01858452
+HEV,RO,2035,Planes,Hydrogen,0.022736301
+HEV,RO,2035,Planes,Liquids,0.28029276
+HEV,RO,2040,International aviation,Electricity,0.0
+HEV,RO,2040,International aviation,Hydrogen,0.0
+HEV,RO,2040,International aviation,Liquids,1.558886382
+HEV,RO,2040,Planes,Electricity,0.030518997
+HEV,RO,2040,Planes,Hydrogen,0.038960285
+HEV,RO,2040,Planes,Liquids,0.22129289
+HEV,SE,2035,International aviation,Electricity,0.0
+HEV,SE,2035,International aviation,Hydrogen,0.0
+HEV,SE,2035,International aviation,Liquids,8.645422959
+HEV,SE,2035,Planes,Electricity,0.0
+HEV,SE,2035,Planes,Hydrogen,0.0
+HEV,SE,2035,Planes,Liquids,0.0
+HEV,SE,2040,International aviation,Electricity,0.0
+HEV,SE,2040,International aviation,Hydrogen,0.0
+HEV,SE,2040,International aviation,Liquids,7.281854227
+HEV,SE,2040,Planes,Electricity,0.0
+HEV,SE,2040,Planes,Hydrogen,0.0
+HEV,SE,2040,Planes,Liquids,0.0
+HEV,SI,2035,International aviation,Electricity,0.0
+HEV,SI,2035,International aviation,Hydrogen,0.0
+HEV,SI,2035,International aviation,Liquids,0.289710446
+HEV,SI,2035,Planes,Electricity,0.0
+HEV,SI,2035,Planes,Hydrogen,0.0
+HEV,SI,2035,Planes,Liquids,0.005171837
+HEV,SI,2040,International aviation,Electricity,0.0
+HEV,SI,2040,International aviation,Hydrogen,0.0
+HEV,SI,2040,International aviation,Liquids,0.280894083
+HEV,SI,2040,Planes,Electricity,0.0
+HEV,SI,2040,Planes,Hydrogen,0.0
+HEV,SI,2040,Planes,Liquids,0.00501445
+HEV,SK,2035,International aviation,Electricity,0.0
+HEV,SK,2035,International aviation,Hydrogen,0.0
+HEV,SK,2035,International aviation,Liquids,0.479390103
+HEV,SK,2035,Planes,Electricity,0.0
+HEV,SK,2035,Planes,Hydrogen,0.0
+HEV,SK,2035,Planes,Liquids,0.0
+HEV,SK,2040,International aviation,Electricity,0.0
+HEV,SK,2040,International aviation,Hydrogen,0.0
+HEV,SK,2040,International aviation,Liquids,0.464801477
+HEV,SK,2040,Planes,Electricity,0.0
+HEV,SK,2040,Planes,Hydrogen,0.0
+HEV,SK,2040,Planes,Liquids,0.0
+LEV,AT,2035,International aviation,Electricity,0.0
+LEV,AT,2035,International aviation,Hydrogen,0.0
+LEV,AT,2035,International aviation,Liquids,8.16130472
+LEV,AT,2035,Planes,Electricity,0.0
+LEV,AT,2035,Planes,Hydrogen,0.0
+LEV,AT,2035,Planes,Liquids,0.0
+LEV,AT,2040,International aviation,Electricity,0.0
+LEV,AT,2040,International aviation,Hydrogen,0.0
+LEV,AT,2040,International aviation,Liquids,5.731157723
+LEV,AT,2040,Planes,Electricity,0.0
+LEV,AT,2040,Planes,Hydrogen,0.0
+LEV,AT,2040,Planes,Liquids,0.0
+LEV,BE,2035,International aviation,Electricity,0.0
+LEV,BE,2035,International aviation,Hydrogen,0.0
+LEV,BE,2035,International aviation,Liquids,22.05983929
+LEV,BE,2035,Planes,Electricity,0.0
+LEV,BE,2035,Planes,Hydrogen,0.0
+LEV,BE,2035,Planes,Liquids,0.036938111
+LEV,BE,2040,International aviation,Electricity,0.0
+LEV,BE,2040,International aviation,Hydrogen,0.129855814
+LEV,BE,2040,International aviation,Liquids,22.69571681
+LEV,BE,2040,Planes,Electricity,0.0
+LEV,BE,2040,Planes,Hydrogen,0.0
+LEV,BE,2040,Planes,Liquids,0.0
+LEV,BG,2035,International aviation,Electricity,0.0
+LEV,BG,2035,International aviation,Hydrogen,0.0
+LEV,BG,2035,International aviation,Liquids,2.561572656
+LEV,BG,2035,Planes,Electricity,0.0
+LEV,BG,2035,Planes,Hydrogen,0.0
+LEV,BG,2035,Planes,Liquids,0.08619704
+LEV,BG,2040,International aviation,Electricity,0.0
+LEV,BG,2040,International aviation,Hydrogen,0.0
+LEV,BG,2040,International aviation,Liquids,2.483619801
+LEV,BG,2040,Planes,Electricity,0.0
+LEV,BG,2040,Planes,Hydrogen,0.0
+LEV,BG,2040,Planes,Liquids,0.066928349
+LEV,CH,2035,International aviation,Electricity,0.0
+LEV,CH,2035,International aviation,Hydrogen,0.0
+LEV,CH,2035,International aviation,Liquids,21.74771029
+LEV,CH,2035,Planes,Electricity,0.0
+LEV,CH,2035,Planes,Hydrogen,0.0
+LEV,CH,2035,Planes,Liquids,0.560143648
+LEV,CH,2040,International aviation,Electricity,0.0
+LEV,CH,2040,International aviation,Hydrogen,0.0
+LEV,CH,2040,International aviation,Liquids,20.15661333
+LEV,CH,2040,Planes,Electricity,0.0
+LEV,CH,2040,Planes,Hydrogen,0.0
+LEV,CH,2040,Planes,Liquids,0.583578063
+LEV,CY,2035,International aviation,Electricity,0.0
+LEV,CY,2035,International aviation,Hydrogen,0.0
+LEV,CY,2035,International aviation,Liquids,3.324625511
+LEV,CY,2035,Planes,Electricity,0.0
+LEV,CY,2035,Planes,Hydrogen,0.0
+LEV,CY,2035,Planes,Liquids,0.0
+LEV,CY,2040,International aviation,Electricity,0.0
+LEV,CY,2040,International aviation,Hydrogen,0.0
+LEV,CY,2040,International aviation,Liquids,3.11498892
+LEV,CY,2040,Planes,Electricity,0.0
+LEV,CY,2040,Planes,Hydrogen,0.0
+LEV,CY,2040,Planes,Liquids,0.0
+LEV,CZ,2035,International aviation,Electricity,0.0
+LEV,CZ,2035,International aviation,Hydrogen,0.0
+LEV,CZ,2035,International aviation,Liquids,4.412567998
+LEV,CZ,2035,Planes,Electricity,0.013795378
+LEV,CZ,2035,Planes,Hydrogen,0.016877264
+LEV,CZ,2035,Planes,Liquids,0.208062653
+LEV,CZ,2040,International aviation,Electricity,0.0
+LEV,CZ,2040,International aviation,Hydrogen,0.0
+LEV,CZ,2040,International aviation,Liquids,4.278286321
+LEV,CZ,2040,Planes,Electricity,0.022448552
+LEV,CZ,2040,Planes,Hydrogen,0.028657626
+LEV,CZ,2040,Planes,Liquids,0.162774191
+LEV,DE,2035,International aviation,Electricity,0.0
+LEV,DE,2035,International aviation,Hydrogen,0.0
+LEV,DE,2035,International aviation,Liquids,131.7633305
+LEV,DE,2035,Planes,Electricity,0.242788129
+LEV,DE,2035,Planes,Hydrogen,0.271198554
+LEV,DE,2035,Planes,Liquids,3.943416718
+LEV,DE,2040,International aviation,Electricity,0.0
+LEV,DE,2040,International aviation,Hydrogen,0.0
+LEV,DE,2040,International aviation,Liquids,135.5015798
+LEV,DE,2040,Planes,Electricity,0.419627125
+LEV,DE,2040,Planes,Hydrogen,0.468730782
+LEV,DE,2040,Planes,Liquids,3.16441984
+LEV,DK,2035,International aviation,Electricity,0.0
+LEV,DK,2035,International aviation,Hydrogen,0.0
+LEV,DK,2035,International aviation,Liquids,11.3448894
+LEV,DK,2035,Planes,Electricity,0.028788096
+LEV,DK,2035,Planes,Hydrogen,0.0
+LEV,DK,2035,Planes,Liquids,0.3590365
+LEV,DK,2040,International aviation,Electricity,0.0
+LEV,DK,2040,International aviation,Hydrogen,0.0
+LEV,DK,2040,International aviation,Liquids,11.31902245
+LEV,DK,2040,Planes,Electricity,0.048700901
+LEV,DK,2040,Planes,Hydrogen,0.0
+LEV,DK,2040,Planes,Liquids,0.296628921
+LEV,EE,2035,International aviation,Electricity,0.0
+LEV,EE,2035,International aviation,Hydrogen,0.0
+LEV,EE,2035,International aviation,Liquids,0.748588831
+LEV,EE,2035,Planes,Electricity,0.000910399
+LEV,EE,2035,Planes,Hydrogen,0.001113782
+LEV,EE,2035,Planes,Liquids,0.013730682
+LEV,EE,2040,International aviation,Electricity,0.0
+LEV,EE,2040,International aviation,Hydrogen,0.0
+LEV,EE,2040,International aviation,Liquids,0.7706462
+LEV,EE,2040,Planes,Electricity,0.002577876
+LEV,EE,2040,Planes,Hydrogen,0.003290893
+LEV,EE,2040,Planes,Liquids,0.018692145
+LEV,ES,2035,International aviation,Electricity,0.0
+LEV,ES,2035,International aviation,Hydrogen,0.0
+LEV,ES,2035,International aviation,Liquids,66.13083925
+LEV,ES,2035,Planes,Electricity,0.0
+LEV,ES,2035,Planes,Hydrogen,0.0
+LEV,ES,2035,Planes,Liquids,25.05680733
+LEV,ES,2040,International aviation,Electricity,0.0
+LEV,ES,2040,International aviation,Hydrogen,0.0
+LEV,ES,2040,International aviation,Liquids,80.73592613
+LEV,ES,2040,Planes,Electricity,0.0
+LEV,ES,2040,Planes,Hydrogen,0.0
+LEV,ES,2040,Planes,Liquids,24.2942879
+LEV,FI,2035,International aviation,Electricity,0.0
+LEV,FI,2035,International aviation,Hydrogen,0.0
+LEV,FI,2035,International aviation,Liquids,8.846926455
+LEV,FI,2035,Planes,Electricity,0.0
+LEV,FI,2035,Planes,Hydrogen,0.0
+LEV,FI,2035,Planes,Liquids,0.708290574
+LEV,FI,2040,International aviation,Electricity,0.0
+LEV,FI,2040,International aviation,Hydrogen,0.0
+LEV,FI,2040,International aviation,Liquids,8.577699982
+LEV,FI,2040,Planes,Electricity,0.0
+LEV,FI,2040,Planes,Hydrogen,0.0
+LEV,FI,2040,Planes,Liquids,0.686736131
+LEV,FR,2035,International aviation,Electricity,0.0
+LEV,FR,2035,International aviation,Hydrogen,0.0
+LEV,FR,2035,International aviation,Liquids,76.93507362
+LEV,FR,2035,Planes,Electricity,0.0
+LEV,FR,2035,Planes,Hydrogen,0.041161641
+LEV,FR,2035,Planes,Liquids,14.88816166
+LEV,FR,2040,International aviation,Electricity,0.0
+LEV,FR,2040,International aviation,Hydrogen,0.0
+LEV,FR,2040,International aviation,Liquids,74.06240741
+LEV,FR,2040,Planes,Electricity,0.0
+LEV,FR,2040,Planes,Hydrogen,0.074904885
+LEV,FR,2040,Planes,Liquids,13.47847169
+LEV,GR,2035,International aviation,Electricity,0.0
+LEV,GR,2035,International aviation,Hydrogen,0.0
+LEV,GR,2035,International aviation,Liquids,14.21199402
+LEV,GR,2035,Planes,Electricity,0.0
+LEV,GR,2035,Planes,Hydrogen,0.0
+LEV,GR,2035,Planes,Liquids,10.91491301
+LEV,GR,2040,International aviation,Electricity,0.032527988
+LEV,GR,2040,International aviation,Hydrogen,0.0
+LEV,GR,2040,International aviation,Liquids,14.25565474
+LEV,GR,2040,Planes,Electricity,0.0
+LEV,GR,2040,Planes,Hydrogen,0.0
+LEV,GR,2040,Planes,Liquids,3.481678488
+LEV,HR,2035,International aviation,Electricity,0.0
+LEV,HR,2035,International aviation,Hydrogen,0.0
+LEV,HR,2035,International aviation,Liquids,2.102769001
+LEV,HR,2035,Planes,Electricity,0.003663923
+LEV,HR,2035,Planes,Hydrogen,0.004482443
+LEV,HR,2035,Planes,Liquids,0.055259485
+LEV,HR,2040,International aviation,Electricity,0.0
+LEV,HR,2040,International aviation,Hydrogen,0.0
+LEV,HR,2040,International aviation,Liquids,2.038778294
+LEV,HR,2040,Planes,Electricity,0.004894672
+LEV,HR,2040,Planes,Hydrogen,0.006248496
+LEV,HR,2040,Planes,Liquids,0.035491211
+LEV,HU,2035,International aviation,Electricity,0.0
+LEV,HU,2035,International aviation,Hydrogen,0.0
+LEV,HU,2035,International aviation,Liquids,2.943206633
+LEV,HU,2035,Planes,Electricity,0.0
+LEV,HU,2035,Planes,Hydrogen,0.0
+LEV,HU,2035,Planes,Liquids,0.022661084
+LEV,HU,2040,International aviation,Electricity,0.0
+LEV,HU,2040,International aviation,Hydrogen,0.0
+LEV,HU,2040,International aviation,Liquids,2.853640031
+LEV,HU,2040,Planes,Electricity,0.0
+LEV,HU,2040,Planes,Hydrogen,0.000745004
+LEV,HU,2040,Planes,Liquids,0.020712139
+LEV,IE,2035,International aviation,Electricity,0.0
+LEV,IE,2035,International aviation,Hydrogen,0.0
+LEV,IE,2035,International aviation,Liquids,11.69806513
+LEV,IE,2035,Planes,Electricity,0.001551034
+LEV,IE,2035,Planes,Hydrogen,0.001897535
+LEV,IE,2035,Planes,Liquids,0.023392784
+LEV,IE,2040,International aviation,Electricity,0.0
+LEV,IE,2040,International aviation,Hydrogen,0.0
+LEV,IE,2040,International aviation,Liquids,18.33137754
+LEV,IE,2040,Planes,Electricity,0.0
+LEV,IE,2040,Planes,Hydrogen,0.0
+LEV,IE,2040,Planes,Liquids,0.0
+LEV,IT,2035,International aviation,Electricity,0.0
+LEV,IT,2035,International aviation,Hydrogen,0.716446019
+LEV,IT,2035,International aviation,Liquids,45.70706608
+LEV,IT,2035,Planes,Electricity,0.272075952
+LEV,IT,2035,Planes,Hydrogen,0.170191594
+LEV,IT,2035,Planes,Liquids,21.23244644
+LEV,IT,2040,International aviation,Electricity,0.0
+LEV,IT,2040,International aviation,Hydrogen,1.057061834
+LEV,IT,2040,International aviation,Liquids,45.4910436
+LEV,IT,2040,Planes,Electricity,0.596157575
+LEV,IT,2040,Planes,Hydrogen,0.266367344
+LEV,IT,2040,Planes,Liquids,22.51278629
+LEV,LT,2035,International aviation,Electricity,0.0
+LEV,LT,2035,International aviation,Hydrogen,0.0
+LEV,LT,2035,International aviation,Liquids,1.299200524
+LEV,LT,2035,Planes,Electricity,0.0
+LEV,LT,2035,Planes,Hydrogen,0.0
+LEV,LT,2035,Planes,Liquids,0.005375639
+LEV,LT,2040,International aviation,Electricity,0.0
+LEV,LT,2040,International aviation,Hydrogen,0.0
+LEV,LT,2040,International aviation,Liquids,1.259663723
+LEV,LT,2040,Planes,Electricity,0.0
+LEV,LT,2040,Planes,Hydrogen,0.0
+LEV,LT,2040,Planes,Liquids,0.00531629
+LEV,LU,2035,International aviation,Electricity,0.0
+LEV,LU,2035,International aviation,Hydrogen,0.0
+LEV,LU,2035,International aviation,Liquids,0.0
+LEV,LU,2035,Planes,Electricity,0.0
+LEV,LU,2035,Planes,Hydrogen,0.0
+LEV,LU,2035,Planes,Liquids,0.0
+LEV,LU,2040,International aviation,Electricity,0.0
+LEV,LU,2040,International aviation,Hydrogen,0.0
+LEV,LU,2040,International aviation,Liquids,0.0
+LEV,LU,2040,Planes,Electricity,0.0
+LEV,LU,2040,Planes,Hydrogen,0.0
+LEV,LU,2040,Planes,Liquids,0.0
+LEV,LV,2035,International aviation,Electricity,0.0
+LEV,LV,2035,International aviation,Hydrogen,0.0
+LEV,LV,2035,International aviation,Liquids,1.652741667
+LEV,LV,2035,Planes,Electricity,0.0
+LEV,LV,2035,Planes,Hydrogen,0.0
+LEV,LV,2035,Planes,Liquids,0.002122431
+LEV,LV,2040,International aviation,Electricity,0.0
+LEV,LV,2040,International aviation,Hydrogen,0.0
+LEV,LV,2040,International aviation,Liquids,1.602446029
+LEV,LV,2040,Planes,Electricity,0.0
+LEV,LV,2040,Planes,Hydrogen,0.0
+LEV,LV,2040,Planes,Liquids,0.002057842
+LEV,MT,2035,International aviation,Electricity,0.0
+LEV,MT,2035,International aviation,Hydrogen,0.0
+LEV,MT,2035,International aviation,Liquids,1.736357396
+LEV,MT,2035,Planes,Electricity,0.0
+LEV,MT,2035,Planes,Hydrogen,0.0
+LEV,MT,2035,Planes,Liquids,0.006531601
+LEV,MT,2040,International aviation,Electricity,0.0
+LEV,MT,2040,International aviation,Hydrogen,0.0
+LEV,MT,2040,International aviation,Liquids,1.683517195
+LEV,MT,2040,Planes,Electricity,0.0
+LEV,MT,2040,Planes,Hydrogen,0.0
+LEV,MT,2040,Planes,Liquids,0.006332834
+LEV,NL,2035,International aviation,Electricity,0.0
+LEV,NL,2035,International aviation,Hydrogen,0.0
+LEV,NL,2035,International aviation,Liquids,41.84225927
+LEV,NL,2035,Planes,Electricity,0.0
+LEV,NL,2035,Planes,Hydrogen,0.0
+LEV,NL,2035,Planes,Liquids,0.237124079
+LEV,NL,2040,International aviation,Electricity,0.0
+LEV,NL,2040,International aviation,Hydrogen,2.309586
+LEV,NL,2040,International aviation,Liquids,38.54048419
+LEV,NL,2040,Planes,Electricity,0.005833849
+LEV,NL,2040,Planes,Hydrogen,0.026066043
+LEV,NL,2040,Planes,Liquids,0.177213049
+LEV,PL,2035,International aviation,Electricity,0.0
+LEV,PL,2035,International aviation,Hydrogen,0.0
+LEV,PL,2035,International aviation,Liquids,11.33674157
+LEV,PL,2035,Planes,Electricity,0.0
+LEV,PL,2035,Planes,Hydrogen,0.0
+LEV,PL,2035,Planes,Liquids,0.361658682
+LEV,PL,2040,International aviation,Electricity,0.0
+LEV,PL,2040,International aviation,Hydrogen,0.0
+LEV,PL,2040,International aviation,Liquids,10.99174594
+LEV,PL,2040,Planes,Electricity,0.0
+LEV,PL,2040,Planes,Hydrogen,0.0
+LEV,PL,2040,Planes,Liquids,0.352277588
+LEV,PT,2035,International aviation,Electricity,0.0
+LEV,PT,2035,International aviation,Hydrogen,0.0
+LEV,PT,2035,International aviation,Liquids,15.36154658
+LEV,PT,2035,Planes,Electricity,0.0
+LEV,PT,2035,Planes,Hydrogen,0.0
+LEV,PT,2035,Planes,Liquids,1.753514489
+LEV,PT,2040,International aviation,Electricity,0.0
+LEV,PT,2040,International aviation,Hydrogen,0.0
+LEV,PT,2040,International aviation,Liquids,14.89406954
+LEV,PT,2040,Planes,Electricity,0.0
+LEV,PT,2040,Planes,Hydrogen,0.0
+LEV,PT,2040,Planes,Liquids,1.700152169
+LEV,RO,2035,International aviation,Electricity,0.0
+LEV,RO,2035,International aviation,Hydrogen,0.0
+LEV,RO,2035,International aviation,Liquids,1.607814823
+LEV,RO,2035,Planes,Electricity,0.018451589
+LEV,RO,2035,Planes,Hydrogen,0.022573673
+LEV,RO,2035,Planes,Liquids,0.278287893
+LEV,RO,2040,International aviation,Electricity,0.0
+LEV,RO,2040,International aviation,Hydrogen,0.0
+LEV,RO,2040,International aviation,Liquids,1.558886382
+LEV,RO,2040,Planes,Electricity,0.030232805
+LEV,RO,2040,Planes,Hydrogen,0.038594935
+LEV,RO,2040,Planes,Liquids,0.219217718
+LEV,SE,2035,International aviation,Electricity,0.0
+LEV,SE,2035,International aviation,Hydrogen,0.0
+LEV,SE,2035,International aviation,Liquids,8.750320648
+LEV,SE,2035,Planes,Electricity,0.0
+LEV,SE,2035,Planes,Hydrogen,0.0
+LEV,SE,2035,Planes,Liquids,0.0
+LEV,SE,2040,International aviation,Electricity,0.0
+LEV,SE,2040,International aviation,Hydrogen,0.0
+LEV,SE,2040,International aviation,Liquids,7.517275105
+LEV,SE,2040,Planes,Electricity,0.0
+LEV,SE,2040,Planes,Hydrogen,0.0
+LEV,SE,2040,Planes,Liquids,0.0
+LEV,SI,2035,International aviation,Electricity,0.0
+LEV,SI,2035,International aviation,Hydrogen,0.0
+LEV,SI,2035,International aviation,Liquids,0.289710446
+LEV,SI,2035,Planes,Electricity,0.0
+LEV,SI,2035,Planes,Hydrogen,0.0
+LEV,SI,2035,Planes,Liquids,0.005171837
+LEV,SI,2040,International aviation,Electricity,0.0
+LEV,SI,2040,International aviation,Hydrogen,0.0
+LEV,SI,2040,International aviation,Liquids,0.280894083
+LEV,SI,2040,Planes,Electricity,0.0
+LEV,SI,2040,Planes,Hydrogen,0.0
+LEV,SI,2040,Planes,Liquids,0.00501445
+LEV,SK,2035,International aviation,Electricity,0.0
+LEV,SK,2035,International aviation,Hydrogen,0.0
+LEV,SK,2035,International aviation,Liquids,0.479390103
+LEV,SK,2035,Planes,Electricity,0.0
+LEV,SK,2035,Planes,Hydrogen,0.0
+LEV,SK,2035,Planes,Liquids,0.0
+LEV,SK,2040,International aviation,Electricity,0.0
+LEV,SK,2040,International aviation,Hydrogen,0.0
+LEV,SK,2040,International aviation,Liquids,0.464801477
+LEV,SK,2040,Planes,Electricity,0.0
+LEV,SK,2040,Planes,Hydrogen,0.0
+LEV,SK,2040,Planes,Liquids,0.0
+NT+,AT,2030,International aviation,Electricity,0.0
+NT+,AT,2030,International aviation,Hydrogen,0.0
+NT+,AT,2030,International aviation,Liquids,11.09895667
+NT+,AT,2030,Planes,Electricity,0.0
+NT+,AT,2030,Planes,Hydrogen,0.0
+NT+,AT,2030,Planes,Liquids,0.0
+NT+,AT,2035,International aviation,Electricity,0.0
+NT+,AT,2035,International aviation,Hydrogen,0.0
+NT+,AT,2035,International aviation,Liquids,8.023498708
+NT+,AT,2035,Planes,Electricity,0.0
+NT+,AT,2035,Planes,Hydrogen,0.0
+NT+,AT,2035,Planes,Liquids,0.0
+NT+,AT,2040,International aviation,Electricity,0.0
+NT+,AT,2040,International aviation,Hydrogen,0.0
+NT+,AT,2040,International aviation,Liquids,5.486321182
+NT+,AT,2040,Planes,Electricity,0.0
+NT+,AT,2040,Planes,Hydrogen,0.0
+NT+,AT,2040,Planes,Liquids,0.0
+NT+,AT,2050,International aviation,Electricity,0.0
+NT+,AT,2050,International aviation,Hydrogen,0.0
+NT+,AT,2050,International aviation,Liquids,9.163649154
+NT+,AT,2050,Planes,Electricity,0.0
+NT+,AT,2050,Planes,Hydrogen,0.0
+NT+,AT,2050,Planes,Liquids,0.0
+NT+,BE,2030,International aviation,Electricity,0.0
+NT+,BE,2030,International aviation,Hydrogen,0.0
+NT+,BE,2030,International aviation,Liquids,21.63759884
+NT+,BE,2030,Planes,Electricity,0.0
+NT+,BE,2030,Planes,Hydrogen,0.0
+NT+,BE,2030,Planes,Liquids,0.0
+NT+,BE,2035,International aviation,Electricity,0.0
+NT+,BE,2035,International aviation,Hydrogen,0.0
+NT+,BE,2035,International aviation,Liquids,22.42856478
+NT+,BE,2035,Planes,Electricity,0.0
+NT+,BE,2035,Planes,Hydrogen,0.0
+NT+,BE,2035,Planes,Liquids,0.0369381
+NT+,BE,2040,International aviation,Electricity,0.0
+NT+,BE,2040,International aviation,Hydrogen,0.132712023
+NT+,BE,2040,International aviation,Liquids,23.19491442
+NT+,BE,2040,Planes,Electricity,0.0
+NT+,BE,2040,Planes,Hydrogen,0.0
+NT+,BE,2040,Planes,Liquids,0.0
+NT+,BE,2050,International aviation,Electricity,0.0
+NT+,BE,2050,International aviation,Hydrogen,0.30501403
+NT+,BE,2050,International aviation,Liquids,24.9310924
+NT+,BE,2050,Planes,Electricity,0.0
+NT+,BE,2050,Planes,Hydrogen,0.0
+NT+,BE,2050,Planes,Liquids,0.0
+NT+,BG,2030,International aviation,Electricity,0.0
+NT+,BG,2030,International aviation,Hydrogen,0.0
+NT+,BG,2030,International aviation,Liquids,2.827845556
+NT+,BG,2030,Planes,Electricity,0.0
+NT+,BG,2030,Planes,Hydrogen,0.0
+NT+,BG,2030,Planes,Liquids,0.356364453
+NT+,BG,2035,International aviation,Electricity,0.0
+NT+,BG,2035,International aviation,Hydrogen,0.0
+NT+,BG,2035,International aviation,Liquids,2.561572656
+NT+,BG,2035,Planes,Electricity,0.0
+NT+,BG,2035,Planes,Hydrogen,0.0
+NT+,BG,2035,Planes,Liquids,0.083903281
+NT+,BG,2040,International aviation,Electricity,0.0
+NT+,BG,2040,International aviation,Hydrogen,0.0
+NT+,BG,2040,International aviation,Liquids,2.483619801
+NT+,BG,2040,Planes,Electricity,0.0
+NT+,BG,2040,Planes,Hydrogen,0.0
+NT+,BG,2040,Planes,Liquids,0.063962771
+NT+,BG,2050,International aviation,Electricity,0.0
+NT+,BG,2050,International aviation,Hydrogen,0.0
+NT+,BG,2050,International aviation,Liquids,2.3347586
+NT+,BG,2050,Planes,Electricity,0.0
+NT+,BG,2050,Planes,Hydrogen,0.0
+NT+,BG,2050,Planes,Liquids,0.051408736
+NT+,CH,2030,International aviation,Electricity,0.0
+NT+,CH,2030,International aviation,Hydrogen,0.0
+NT+,CH,2030,International aviation,Liquids,23.12557102
+NT+,CH,2030,Planes,Electricity,0.0
+NT+,CH,2030,Planes,Hydrogen,0.0
+NT+,CH,2030,Planes,Liquids,0.598091053
+NT+,CH,2035,International aviation,Electricity,0.0
+NT+,CH,2035,International aviation,Hydrogen,0.0
+NT+,CH,2035,International aviation,Liquids,21.92992762
+NT+,CH,2035,Planes,Electricity,0.0
+NT+,CH,2035,Planes,Hydrogen,0.0
+NT+,CH,2035,Planes,Liquids,0.562157972
+NT+,CH,2040,International aviation,Electricity,0.0
+NT+,CH,2040,International aviation,Hydrogen,0.0
+NT+,CH,2040,International aviation,Liquids,20.25180318
+NT+,CH,2040,Planes,Electricity,0.0
+NT+,CH,2040,Planes,Hydrogen,0.0
+NT+,CH,2040,Planes,Liquids,0.58908705
+NT+,CH,2050,International aviation,Electricity,0.0
+NT+,CH,2050,International aviation,Hydrogen,0.0
+NT+,CH,2050,International aviation,Liquids,16.80148833
+NT+,CH,2050,Planes,Electricity,0.0
+NT+,CH,2050,Planes,Hydrogen,0.0
+NT+,CH,2050,Planes,Liquids,0.589726434
+NT+,CY,2030,International aviation,Electricity,0.0
+NT+,CY,2030,International aviation,Hydrogen,0.0
+NT+,CY,2030,International aviation,Liquids,3.820268019
+NT+,CY,2030,Planes,Electricity,0.0
+NT+,CY,2030,Planes,Hydrogen,0.0
+NT+,CY,2030,Planes,Liquids,0.0
+NT+,CY,2035,International aviation,Electricity,0.0
+NT+,CY,2035,International aviation,Hydrogen,0.0
+NT+,CY,2035,International aviation,Liquids,3.328613616
+NT+,CY,2035,Planes,Electricity,0.0
+NT+,CY,2035,Planes,Hydrogen,0.0
+NT+,CY,2035,Planes,Liquids,0.0
+NT+,CY,2040,International aviation,Electricity,0.0
+NT+,CY,2040,International aviation,Hydrogen,0.0
+NT+,CY,2040,International aviation,Liquids,3.110081955
+NT+,CY,2040,Planes,Electricity,0.0
+NT+,CY,2040,Planes,Hydrogen,0.0
+NT+,CY,2040,Planes,Liquids,0.0
+NT+,CY,2050,International aviation,Electricity,0.0
+NT+,CY,2050,International aviation,Hydrogen,0.0
+NT+,CY,2050,International aviation,Liquids,2.894566862
+NT+,CY,2050,Planes,Electricity,0.0
+NT+,CY,2050,Planes,Hydrogen,0.0
+NT+,CY,2050,Planes,Liquids,0.0
+NT+,CZ,2030,International aviation,Electricity,0.0
+NT+,CZ,2030,International aviation,Hydrogen,0.0
+NT+,CZ,2030,International aviation,Liquids,4.87125
+NT+,CZ,2030,Planes,Electricity,0.005036572
+NT+,CZ,2030,Planes,Hydrogen,0.004822233
+NT+,CZ,2030,Planes,Liquids,0.273170524
+NT+,CZ,2035,International aviation,Electricity,0.0
+NT+,CZ,2035,International aviation,Hydrogen,0.0
+NT+,CZ,2035,International aviation,Liquids,4.412567998
+NT+,CZ,2035,Planes,Electricity,0.013861499
+NT+,CZ,2035,Planes,Hydrogen,0.016958158
+NT+,CZ,2035,Planes,Liquids,0.209059906
+NT+,CZ,2040,International aviation,Electricity,0.0
+NT+,CZ,2040,International aviation,Hydrogen,0.0
+NT+,CZ,2040,International aviation,Liquids,4.278286321
+NT+,CZ,2040,Planes,Electricity,0.022572224
+NT+,CZ,2040,Planes,Hydrogen,0.028815504
+NT+,CZ,2040,Planes,Liquids,0.163670933
+NT+,CZ,2050,International aviation,Electricity,0.0
+NT+,CZ,2050,International aviation,Hydrogen,0.0
+NT+,CZ,2050,International aviation,Liquids,4.021857845
+NT+,CZ,2050,Planes,Electricity,0.045490441
+NT+,CZ,2050,Planes,Hydrogen,0.050813613
+NT+,CZ,2050,Planes,Liquids,0.079164158
+NT+,DE,2030,International aviation,Electricity,0.0
+NT+,DE,2030,International aviation,Hydrogen,0.0
+NT+,DE,2030,International aviation,Liquids,129.2144072
+NT+,DE,2030,Planes,Electricity,0.066723736
+NT+,DE,2030,Planes,Hydrogen,0.074531572
+NT+,DE,2030,Planes,Liquids,5.147770685
+NT+,DE,2035,International aviation,Electricity,0.0
+NT+,DE,2035,International aviation,Hydrogen,0.0
+NT+,DE,2035,International aviation,Liquids,134.4347491
+NT+,DE,2035,Planes,Electricity,0.243951823
+NT+,DE,2035,Planes,Hydrogen,0.27249842
+NT+,DE,2035,Planes,Liquids,3.962317676
+NT+,DE,2040,International aviation,Electricity,0.0
+NT+,DE,2040,International aviation,Hydrogen,0.0
+NT+,DE,2040,International aviation,Liquids,138.9065088
+NT+,DE,2040,Planes,Electricity,0.422268918
+NT+,DE,2040,Planes,Hydrogen,0.47168171
+NT+,DE,2040,Planes,Liquids,3.184341674
+NT+,DE,2050,International aviation,Electricity,0.0
+NT+,DE,2050,International aviation,Hydrogen,0.0
+NT+,DE,2050,International aviation,Liquids,148.4427218
+NT+,DE,2050,Planes,Electricity,0.442635596
+NT+,DE,2050,Planes,Hydrogen,0.494431644
+NT+,DE,2050,Planes,Liquids,1.797345505
+NT+,DK,2030,International aviation,Electricity,0.0
+NT+,DK,2030,International aviation,Hydrogen,0.0
+NT+,DK,2030,International aviation,Liquids,11.25505878
+NT+,DK,2030,Planes,Electricity,0.0
+NT+,DK,2030,Planes,Hydrogen,0.0
+NT+,DK,2030,Planes,Liquids,0.359502309
+NT+,DK,2035,International aviation,Electricity,0.0
+NT+,DK,2035,International aviation,Hydrogen,0.0
+NT+,DK,2035,International aviation,Liquids,11.37209739
+NT+,DK,2035,Planes,Electricity,0.028615055
+NT+,DK,2035,Planes,Hydrogen,0.0
+NT+,DK,2035,Planes,Liquids,0.356878376
+NT+,DK,2040,International aviation,Electricity,0.0
+NT+,DK,2040,International aviation,Hydrogen,0.0
+NT+,DK,2040,International aviation,Liquids,11.37247667
+NT+,DK,2040,Planes,Electricity,0.048317048
+NT+,DK,2040,Planes,Hydrogen,0.0
+NT+,DK,2040,Planes,Liquids,0.294290935
+NT+,DK,2050,International aviation,Electricity,0.13761036
+NT+,DK,2050,International aviation,Hydrogen,0.0
+NT+,DK,2050,International aviation,Liquids,11.24793046
+NT+,DK,2050,Planes,Electricity,0.132793671
+NT+,DK,2050,Planes,Hydrogen,0.0
+NT+,DK,2050,Planes,Liquids,0.269607901
+NT+,EE,2030,International aviation,Electricity,0.0
+NT+,EE,2030,International aviation,Hydrogen,0.0
+NT+,EE,2030,International aviation,Liquids,0.796419722
+NT+,EE,2030,Planes,Electricity,0.000132291
+NT+,EE,2030,Planes,Hydrogen,0.000126661
+NT+,EE,2030,Planes,Liquids,0.007175097
+NT+,EE,2035,International aviation,Electricity,0.0
+NT+,EE,2035,International aviation,Hydrogen,0.0
+NT+,EE,2035,International aviation,Liquids,0.750832562
+NT+,EE,2035,Planes,Electricity,0.000916939
+NT+,EE,2035,Planes,Hydrogen,0.001121783
+NT+,EE,2035,Planes,Liquids,0.013829328
+NT+,EE,2040,International aviation,Electricity,0.0
+NT+,EE,2040,International aviation,Hydrogen,0.0
+NT+,EE,2040,International aviation,Liquids,0.776709702
+NT+,EE,2040,Planes,Electricity,0.002618405
+NT+,EE,2040,Planes,Hydrogen,0.003342633
+NT+,EE,2040,Planes,Liquids,0.018986026
+NT+,EE,2050,International aviation,Electricity,0.0
+NT+,EE,2050,International aviation,Hydrogen,0.0
+NT+,EE,2050,International aviation,Liquids,0.710467349
+NT+,EE,2050,Planes,Electricity,0.00511389
+NT+,EE,2050,Planes,Hydrogen,0.005712304
+NT+,EE,2050,Planes,Liquids,0.008899382
+NT+,ES,2030,International aviation,Electricity,0.0
+NT+,ES,2030,International aviation,Hydrogen,0.0
+NT+,ES,2030,International aviation,Liquids,74.62722481
+NT+,ES,2030,Planes,Electricity,0.0
+NT+,ES,2030,Planes,Hydrogen,0.0
+NT+,ES,2030,Planes,Liquids,27.66143723
+NT+,ES,2035,International aviation,Electricity,0.0
+NT+,ES,2035,International aviation,Hydrogen,0.0
+NT+,ES,2035,International aviation,Liquids,67.47160036
+NT+,ES,2035,Planes,Electricity,0.0
+NT+,ES,2035,Planes,Hydrogen,0.0
+NT+,ES,2035,Planes,Liquids,25.05680759
+NT+,ES,2040,International aviation,Electricity,0.0
+NT+,ES,2040,International aviation,Hydrogen,0.0
+NT+,ES,2040,International aviation,Liquids,83.90065915
+NT+,ES,2040,Planes,Electricity,0.0
+NT+,ES,2040,Planes,Hydrogen,0.0
+NT+,ES,2040,Planes,Liquids,24.29428787
+NT+,ES,2050,International aviation,Electricity,0.0
+NT+,ES,2050,International aviation,Hydrogen,0.0
+NT+,ES,2050,International aviation,Liquids,60.11703669
+NT+,ES,2050,Planes,Electricity,0.0
+NT+,ES,2050,Planes,Hydrogen,0.0
+NT+,ES,2050,Planes,Liquids,22.84106113
+NT+,FI,2030,International aviation,Electricity,0.0
+NT+,FI,2030,International aviation,Hydrogen,0.0
+NT+,FI,2030,International aviation,Liquids,9.766555556
+NT+,FI,2030,Planes,Electricity,0.0
+NT+,FI,2030,Planes,Hydrogen,0.0
+NT+,FI,2030,Planes,Liquids,0.781916667
+NT+,FI,2035,International aviation,Electricity,0.0
+NT+,FI,2035,International aviation,Hydrogen,0.0
+NT+,FI,2035,International aviation,Liquids,8.846926455
+NT+,FI,2035,Planes,Electricity,0.0
+NT+,FI,2035,Planes,Hydrogen,0.0
+NT+,FI,2035,Planes,Liquids,0.708290574
+NT+,FI,2040,International aviation,Electricity,0.0
+NT+,FI,2040,International aviation,Hydrogen,0.0
+NT+,FI,2040,International aviation,Liquids,8.577699982
+NT+,FI,2040,Planes,Electricity,0.0
+NT+,FI,2040,Planes,Hydrogen,0.0
+NT+,FI,2040,Planes,Liquids,0.686736131
+NT+,FI,2050,International aviation,Electricity,0.0
+NT+,FI,2050,International aviation,Hydrogen,0.0
+NT+,FI,2050,International aviation,Liquids,8.063576716
+NT+,FI,2050,Planes,Electricity,0.0
+NT+,FI,2050,Planes,Hydrogen,0.0
+NT+,FI,2050,Planes,Liquids,0.645575095
+NT+,FR,2030,International aviation,Electricity,0.0
+NT+,FR,2030,International aviation,Hydrogen,0.0
+NT+,FR,2030,International aviation,Liquids,85.08519242
+NT+,FR,2030,Planes,Electricity,0.0
+NT+,FR,2030,Planes,Hydrogen,0.0
+NT+,FR,2030,Planes,Liquids,16.47032322
+NT+,FR,2035,International aviation,Electricity,0.0
+NT+,FR,2035,International aviation,Hydrogen,0.0
+NT+,FR,2035,International aviation,Liquids,77.94656878
+NT+,FR,2035,Planes,Electricity,0.0
+NT+,FR,2035,Planes,Hydrogen,0.04120786
+NT+,FR,2035,Planes,Liquids,14.90487894
+NT+,FR,2040,International aviation,Electricity,0.0
+NT+,FR,2040,International aviation,Hydrogen,0.0
+NT+,FR,2040,International aviation,Liquids,74.99427692
+NT+,FR,2040,Planes,Electricity,0.0
+NT+,FR,2040,Planes,Hydrogen,0.074995126
+NT+,FR,2040,Planes,Liquids,13.49470979
+NT+,FR,2050,International aviation,Electricity,0.0
+NT+,FR,2050,International aviation,Hydrogen,0.0
+NT+,FR,2050,International aviation,Liquids,69.60841299
+NT+,FR,2050,Planes,Electricity,0.0
+NT+,FR,2050,Planes,Hydrogen,0.720173715
+NT+,FR,2050,Planes,Liquids,10.59082774
+NT+,GR,2030,International aviation,Electricity,0.0
+NT+,GR,2030,International aviation,Hydrogen,0.0
+NT+,GR,2030,International aviation,Liquids,14.04352221
+NT+,GR,2030,Planes,Electricity,0.0
+NT+,GR,2030,Planes,Hydrogen,0.0
+NT+,GR,2030,Planes,Liquids,7.614360811
+NT+,GR,2035,International aviation,Electricity,0.0
+NT+,GR,2035,International aviation,Hydrogen,0.0
+NT+,GR,2035,International aviation,Liquids,14.4157569
+NT+,GR,2035,Planes,Electricity,0.0
+NT+,GR,2035,Planes,Hydrogen,0.0
+NT+,GR,2035,Planes,Liquids,11.03240961
+NT+,GR,2040,International aviation,Electricity,0.033090438
+NT+,GR,2040,International aviation,Hydrogen,0.0
+NT+,GR,2040,International aviation,Liquids,14.50215336
+NT+,GR,2040,Planes,Electricity,0.0
+NT+,GR,2040,Planes,Hydrogen,0.0
+NT+,GR,2040,Planes,Liquids,3.618155313
+NT+,GR,2050,International aviation,Electricity,0.161102899
+NT+,GR,2050,International aviation,Hydrogen,0.0
+NT+,GR,2050,International aviation,Liquids,14.64605959
+NT+,GR,2050,Planes,Electricity,0.015617881
+NT+,GR,2050,Planes,Hydrogen,0.0
+NT+,GR,2050,Planes,Liquids,3.682201481
+NT+,HR,2030,International aviation,Electricity,0.0
+NT+,HR,2030,International aviation,Hydrogen,0.0
+NT+,HR,2030,International aviation,Liquids,2.321349722
+NT+,HR,2030,Planes,Electricity,0.001579759
+NT+,HR,2030,Planes,Hydrogen,0.00151253
+NT+,HR,2030,Planes,Liquids,0.085681998
+NT+,HR,2035,International aviation,Electricity,0.0
+NT+,HR,2035,International aviation,Hydrogen,0.0
+NT+,HR,2035,International aviation,Liquids,2.102769001
+NT+,HR,2035,Planes,Electricity,0.003672192
+NT+,HR,2035,Planes,Hydrogen,0.00449256
+NT+,HR,2035,Planes,Liquids,0.055384205
+NT+,HR,2040,International aviation,Electricity,0.0
+NT+,HR,2040,International aviation,Hydrogen,0.0
+NT+,HR,2040,International aviation,Liquids,2.038778294
+NT+,HR,2040,Planes,Electricity,0.004908269
+NT+,HR,2040,Planes,Hydrogen,0.006265853
+NT+,HR,2040,Planes,Liquids,0.035589799
+NT+,HR,2050,International aviation,Electricity,0.0
+NT+,HR,2050,International aviation,Hydrogen,0.0
+NT+,HR,2050,International aviation,Liquids,1.916579644
+NT+,HR,2050,Planes,Electricity,0.013786308
+NT+,HR,2050,Planes,Hydrogen,0.015399545
+NT+,HR,2050,Planes,Liquids,0.023991445
+NT+,HU,2030,International aviation,Electricity,0.0
+NT+,HU,2030,International aviation,Hydrogen,0.0
+NT+,HU,2030,International aviation,Liquids,3.24915
+NT+,HU,2030,Planes,Electricity,0.0
+NT+,HU,2030,Planes,Hydrogen,0.0
+NT+,HU,2030,Planes,Liquids,0.025016667
+NT+,HU,2035,International aviation,Electricity,0.0
+NT+,HU,2035,International aviation,Hydrogen,0.0
+NT+,HU,2035,International aviation,Liquids,2.943206633
+NT+,HU,2035,Planes,Electricity,0.0
+NT+,HU,2035,Planes,Hydrogen,0.0
+NT+,HU,2035,Planes,Liquids,0.022661071
+NT+,HU,2040,International aviation,Electricity,0.0
+NT+,HU,2040,International aviation,Hydrogen,0.0
+NT+,HU,2040,International aviation,Liquids,2.853640031
+NT+,HU,2040,Planes,Electricity,0.0
+NT+,HU,2040,Planes,Hydrogen,0.000742656
+NT+,HU,2040,Planes,Liquids,0.020646861
+NT+,HU,2050,International aviation,Electricity,0.0
+NT+,HU,2050,International aviation,Hydrogen,0.0
+NT+,HU,2050,International aviation,Liquids,2.682600855
+NT+,HU,2050,Planes,Electricity,0.0
+NT+,HU,2050,Planes,Hydrogen,0.004854138
+NT+,HU,2050,Planes,Liquids,0.01323423
+NT+,IE,2030,International aviation,Electricity,0.0
+NT+,IE,2030,International aviation,Hydrogen,0.0
+NT+,IE,2030,International aviation,Liquids,12.91406722
+NT+,IE,2030,Planes,Electricity,0.001231395
+NT+,IE,2030,Planes,Hydrogen,0.001178991
+NT+,IE,2030,Planes,Liquids,0.066787674
+NT+,IE,2035,International aviation,Electricity,0.0
+NT+,IE,2035,International aviation,Hydrogen,0.0
+NT+,IE,2035,International aviation,Liquids,11.69806513
+NT+,IE,2035,Planes,Electricity,0.001543578
+NT+,IE,2035,Planes,Hydrogen,0.001888414
+NT+,IE,2035,Planes,Liquids,0.023280335
+NT+,IE,2040,International aviation,Electricity,0.0
+NT+,IE,2040,International aviation,Hydrogen,0.0
+NT+,IE,2040,International aviation,Liquids,19.04994136
+NT+,IE,2040,Planes,Electricity,0.0
+NT+,IE,2040,Planes,Hydrogen,0.0
+NT+,IE,2040,Planes,Liquids,0.0
+NT+,IE,2050,International aviation,Electricity,0.0
+NT+,IE,2050,International aviation,Hydrogen,0.0
+NT+,IE,2050,International aviation,Liquids,25.86580253
+NT+,IE,2050,Planes,Electricity,0.0
+NT+,IE,2050,Planes,Hydrogen,0.0
+NT+,IE,2050,Planes,Liquids,0.457116311
+NT+,IT,2030,International aviation,Electricity,0.0
+NT+,IT,2030,International aviation,Hydrogen,0.289262909
+NT+,IT,2030,International aviation,Liquids,41.03400976
+NT+,IT,2030,Planes,Electricity,0.0
+NT+,IT,2030,Planes,Hydrogen,0.086130061
+NT+,IT,2030,Planes,Liquids,22.20473831
+NT+,IT,2035,International aviation,Electricity,0.0
+NT+,IT,2035,International aviation,Hydrogen,0.722448898
+NT+,IT,2035,International aviation,Liquids,46.09003143
+NT+,IT,2035,Planes,Electricity,0.270440537
+NT+,IT,2035,Planes,Hydrogen,0.169168593
+NT+,IT,2035,Planes,Liquids,21.10482082
+NT+,IT,2040,International aviation,Electricity,0.0
+NT+,IT,2040,International aviation,Hydrogen,1.068701566
+NT+,IT,2040,International aviation,Liquids,45.9919637
+NT+,IT,2040,Planes,Electricity,0.596157575
+NT+,IT,2040,Planes,Hydrogen,0.266367344
+NT+,IT,2040,Planes,Liquids,22.51278629
+NT+,IT,2050,International aviation,Electricity,0.0
+NT+,IT,2050,International aviation,Hydrogen,1.181718568
+NT+,IT,2050,International aviation,Liquids,47.80754437
+NT+,IT,2050,Planes,Electricity,1.264510385
+NT+,IT,2050,Planes,Hydrogen,0.28249601
+NT+,IT,2050,Planes,Liquids,22.59229292
+NT+,LT,2030,International aviation,Electricity,0.0
+NT+,LT,2030,International aviation,Hydrogen,0.0
+NT+,LT,2030,International aviation,Liquids,1.434251111
+NT+,LT,2030,Planes,Electricity,0.0
+NT+,LT,2030,Planes,Hydrogen,0.0
+NT+,LT,2030,Planes,Liquids,0.005897543
+NT+,LT,2035,International aviation,Electricity,0.0
+NT+,LT,2035,International aviation,Hydrogen,0.0
+NT+,LT,2035,International aviation,Liquids,1.299200524
+NT+,LT,2035,Planes,Electricity,0.0
+NT+,LT,2035,Planes,Hydrogen,0.0
+NT+,LT,2035,Planes,Liquids,0.00523259
+NT+,LT,2040,International aviation,Electricity,0.0
+NT+,LT,2040,International aviation,Hydrogen,0.0
+NT+,LT,2040,International aviation,Liquids,1.259663723
+NT+,LT,2040,Planes,Electricity,0.0
+NT+,LT,2040,Planes,Hydrogen,0.0
+NT+,LT,2040,Planes,Liquids,0.005165107
+NT+,LT,2050,International aviation,Electricity,0.0
+NT+,LT,2050,International aviation,Hydrogen,0.0
+NT+,LT,2050,International aviation,Liquids,1.184163014
+NT+,LT,2050,Planes,Electricity,0.0
+NT+,LT,2050,Planes,Hydrogen,0.0
+NT+,LT,2050,Planes,Liquids,0.005033815
+NT+,LU,2030,International aviation,Electricity,0.0
+NT+,LU,2030,International aviation,Hydrogen,0.0
+NT+,LU,2030,International aviation,Liquids,0.0
+NT+,LU,2030,Planes,Electricity,4.75e-05
+NT+,LU,2030,Planes,Hydrogen,4.55e-05
+NT+,LU,2030,Planes,Liquids,0.002575463
+NT+,LU,2035,International aviation,Electricity,0.0
+NT+,LU,2035,International aviation,Hydrogen,0.0
+NT+,LU,2035,International aviation,Liquids,0.0
+NT+,LU,2035,Planes,Electricity,0.0
+NT+,LU,2035,Planes,Hydrogen,0.0
+NT+,LU,2035,Planes,Liquids,0.0
+NT+,LU,2040,International aviation,Electricity,0.0
+NT+,LU,2040,International aviation,Hydrogen,0.0
+NT+,LU,2040,International aviation,Liquids,0.0
+NT+,LU,2040,Planes,Electricity,0.0
+NT+,LU,2040,Planes,Hydrogen,0.0
+NT+,LU,2040,Planes,Liquids,0.0
+NT+,LU,2050,International aviation,Electricity,0.0
+NT+,LU,2050,International aviation,Hydrogen,0.0
+NT+,LU,2050,International aviation,Liquids,0.0
+NT+,LU,2050,Planes,Electricity,0.0
+NT+,LU,2050,Planes,Hydrogen,0.0
+NT+,LU,2050,Planes,Liquids,0.0
+NT+,LV,2030,International aviation,Electricity,0.0
+NT+,LV,2030,International aviation,Hydrogen,0.0
+NT+,LV,2030,International aviation,Liquids,1.8245425
+NT+,LV,2030,Planes,Electricity,0.0
+NT+,LV,2030,Planes,Hydrogen,0.0
+NT+,LV,2030,Planes,Liquids,0.002343056
+NT+,LV,2035,International aviation,Electricity,0.0
+NT+,LV,2035,International aviation,Hydrogen,0.0
+NT+,LV,2035,International aviation,Liquids,1.652741667
+NT+,LV,2035,Planes,Electricity,0.0
+NT+,LV,2035,Planes,Hydrogen,0.0
+NT+,LV,2035,Planes,Liquids,0.002122431
+NT+,LV,2040,International aviation,Electricity,0.0
+NT+,LV,2040,International aviation,Hydrogen,0.0
+NT+,LV,2040,International aviation,Liquids,1.602446029
+NT+,LV,2040,Planes,Electricity,0.0
+NT+,LV,2040,Planes,Hydrogen,0.0
+NT+,LV,2040,Planes,Liquids,0.002057842
+NT+,LV,2050,International aviation,Electricity,0.0
+NT+,LV,2050,International aviation,Hydrogen,0.0
+NT+,LV,2050,International aviation,Liquids,1.506399911
+NT+,LV,2050,Planes,Electricity,0.0
+NT+,LV,2050,Planes,Hydrogen,0.0
+NT+,LV,2050,Planes,Liquids,0.001934501
+NT+,MT,2030,International aviation,Electricity,0.0
+NT+,MT,2030,International aviation,Hydrogen,0.0
+NT+,MT,2030,International aviation,Liquids,1.91685
+NT+,MT,2030,Planes,Electricity,0.0
+NT+,MT,2030,Planes,Hydrogen,0.0
+NT+,MT,2030,Planes,Liquids,0.0
+NT+,MT,2035,International aviation,Electricity,0.0
+NT+,MT,2035,International aviation,Hydrogen,0.0
+NT+,MT,2035,International aviation,Liquids,1.736357396
+NT+,MT,2035,Planes,Electricity,0.0
+NT+,MT,2035,Planes,Hydrogen,0.0
+NT+,MT,2035,Planes,Liquids,0.006531602
+NT+,MT,2040,International aviation,Electricity,0.0
+NT+,MT,2040,International aviation,Hydrogen,0.0
+NT+,MT,2040,International aviation,Liquids,1.683517195
+NT+,MT,2040,Planes,Electricity,0.0
+NT+,MT,2040,Planes,Hydrogen,0.0
+NT+,MT,2040,Planes,Liquids,0.006332835
+NT+,MT,2050,International aviation,Electricity,0.0
+NT+,MT,2050,International aviation,Hydrogen,0.0
+NT+,MT,2050,International aviation,Liquids,1.582611898
+NT+,MT,2050,Planes,Electricity,0.0
+NT+,MT,2050,Planes,Hydrogen,0.0
+NT+,MT,2050,Planes,Liquids,0.005953262
+NT+,NL,2030,International aviation,Electricity,0.0
+NT+,NL,2030,International aviation,Hydrogen,0.0
+NT+,NL,2030,International aviation,Liquids,43.1555535
+NT+,NL,2030,Planes,Electricity,0.0
+NT+,NL,2030,Planes,Hydrogen,0.0
+NT+,NL,2030,Planes,Liquids,0.222968633
+NT+,NL,2035,International aviation,Electricity,0.0
+NT+,NL,2035,International aviation,Hydrogen,0.0
+NT+,NL,2035,International aviation,Liquids,41.84225927
+NT+,NL,2035,Planes,Electricity,0.0
+NT+,NL,2035,Planes,Hydrogen,0.0
+NT+,NL,2035,Planes,Liquids,0.239959256
+NT+,NL,2040,International aviation,Electricity,0.0
+NT+,NL,2040,International aviation,Hydrogen,2.309586
+NT+,NL,2040,International aviation,Liquids,38.54048419
+NT+,NL,2040,Planes,Electricity,0.005916413
+NT+,NL,2040,Planes,Hydrogen,0.026434942
+NT+,NL,2040,Planes,Liquids,0.179721053
+NT+,NL,2050,International aviation,Electricity,0.9238344
+NT+,NL,2050,International aviation,Hydrogen,9.238344
+NT+,NL,2050,International aviation,Liquids,29.74712744
+NT+,NL,2050,Planes,Electricity,0.023961489
+NT+,NL,2050,Planes,Hydrogen,0.107061596
+NT+,NL,2050,Planes,Liquids,0.0
+NT+,PL,2030,International aviation,Electricity,0.0
+NT+,PL,2030,International aviation,Hydrogen,0.0
+NT+,PL,2030,International aviation,Liquids,12.51518444
+NT+,PL,2030,Planes,Electricity,0.0
+NT+,PL,2030,Planes,Hydrogen,0.0
+NT+,PL,2030,Planes,Liquids,0.406568361
+NT+,PL,2035,International aviation,Electricity,0.0
+NT+,PL,2035,International aviation,Hydrogen,0.0
+NT+,PL,2035,International aviation,Liquids,11.33674157
+NT+,PL,2035,Planes,Electricity,0.0
+NT+,PL,2035,Planes,Hydrogen,0.0
+NT+,PL,2035,Planes,Liquids,0.362092515
+NT+,PL,2040,International aviation,Electricity,0.0
+NT+,PL,2040,International aviation,Hydrogen,0.0
+NT+,PL,2040,International aviation,Liquids,10.99174594
+NT+,PL,2040,Planes,Electricity,0.0
+NT+,PL,2040,Planes,Hydrogen,0.0
+NT+,PL,2040,Planes,Liquids,0.352832328
+NT+,PL,2050,International aviation,Electricity,0.0
+NT+,PL,2050,International aviation,Hydrogen,0.0
+NT+,PL,2050,International aviation,Liquids,10.33293153
+NT+,PL,2050,Planes,Electricity,0.0
+NT+,PL,2050,Planes,Hydrogen,0.0
+NT+,PL,2050,Planes,Liquids,0.367582401
+NT+,PT,2030,International aviation,Electricity,0.0
+NT+,PT,2030,International aviation,Hydrogen,0.0
+NT+,PT,2030,International aviation,Liquids,16.95836389
+NT+,PT,2030,Planes,Electricity,0.0
+NT+,PT,2030,Planes,Hydrogen,0.0
+NT+,PT,2030,Planes,Liquids,1.935790556
+NT+,PT,2035,International aviation,Electricity,0.0
+NT+,PT,2035,International aviation,Hydrogen,0.0
+NT+,PT,2035,International aviation,Liquids,15.36154658
+NT+,PT,2035,Planes,Electricity,0.0
+NT+,PT,2035,Planes,Hydrogen,0.0
+NT+,PT,2035,Planes,Liquids,1.75351449
+NT+,PT,2040,International aviation,Electricity,0.0
+NT+,PT,2040,International aviation,Hydrogen,0.0
+NT+,PT,2040,International aviation,Liquids,14.89406954
+NT+,PT,2040,Planes,Electricity,0.0
+NT+,PT,2040,Planes,Hydrogen,0.0
+NT+,PT,2040,Planes,Liquids,1.700152169
+NT+,PT,2050,International aviation,Electricity,0.0
+NT+,PT,2050,International aviation,Hydrogen,0.0
+NT+,PT,2050,International aviation,Liquids,14.00136081
+NT+,PT,2050,Planes,Electricity,0.0
+NT+,PT,2050,Planes,Hydrogen,0.0
+NT+,PT,2050,Planes,Liquids,1.598249819
+NT+,RO,2030,International aviation,Electricity,0.0
+NT+,RO,2030,International aviation,Hydrogen,0.0
+NT+,RO,2030,International aviation,Liquids,1.774945556
+NT+,RO,2030,Planes,Electricity,0.006712987
+NT+,RO,2030,Planes,Hydrogen,0.006427306
+NT+,RO,2030,Planes,Liquids,0.364094922
+NT+,RO,2035,International aviation,Electricity,0.0
+NT+,RO,2035,International aviation,Hydrogen,0.0
+NT+,RO,2035,International aviation,Liquids,1.607814823
+NT+,RO,2035,Planes,Electricity,0.018517942
+NT+,RO,2035,Planes,Hydrogen,0.02265485
+NT+,RO,2035,Planes,Liquids,0.27928864
+NT+,RO,2040,International aviation,Electricity,0.0
+NT+,RO,2040,International aviation,Hydrogen,0.0
+NT+,RO,2040,International aviation,Liquids,1.558886382
+NT+,RO,2040,Planes,Electricity,0.03037558
+NT+,RO,2040,Planes,Hydrogen,0.0387772
+NT+,RO,2040,Planes,Liquids,0.220252977
+NT+,RO,2050,International aviation,Electricity,0.0
+NT+,RO,2050,International aviation,Hydrogen,0.0
+NT+,RO,2050,International aviation,Liquids,1.465451107
+NT+,RO,2050,Planes,Electricity,0.059762745
+NT+,RO,2050,Planes,Hydrogen,0.066756023
+NT+,RO,2050,Planes,Liquids,0.104001351
+NT+,SE,2030,International aviation,Electricity,0.0
+NT+,SE,2030,International aviation,Hydrogen,0.0
+NT+,SE,2030,International aviation,Liquids,10.40364
+NT+,SE,2030,Planes,Electricity,0.009114599
+NT+,SE,2030,Planes,Hydrogen,0.008726714
+NT+,SE,2030,Planes,Liquids,0.49435211
+NT+,SE,2035,International aviation,Electricity,0.0
+NT+,SE,2035,International aviation,Hydrogen,0.0
+NT+,SE,2035,International aviation,Liquids,8.69772355
+NT+,SE,2035,Planes,Electricity,0.0
+NT+,SE,2035,Planes,Hydrogen,0.0
+NT+,SE,2035,Planes,Liquids,0.0
+NT+,SE,2040,International aviation,Electricity,0.0
+NT+,SE,2040,International aviation,Hydrogen,0.0
+NT+,SE,2040,International aviation,Liquids,7.398672938
+NT+,SE,2040,Planes,Electricity,0.0
+NT+,SE,2040,Planes,Hydrogen,0.0
+NT+,SE,2040,Planes,Liquids,0.0
+NT+,SE,2050,International aviation,Electricity,0.0
+NT+,SE,2050,International aviation,Hydrogen,0.0
+NT+,SE,2050,International aviation,Liquids,6.290173804
+NT+,SE,2050,Planes,Electricity,0.0
+NT+,SE,2050,Planes,Hydrogen,0.0
+NT+,SE,2050,Planes,Liquids,0.0
+NT+,SI,2030,International aviation,Electricity,0.0
+NT+,SI,2030,International aviation,Hydrogen,0.0
+NT+,SI,2030,International aviation,Liquids,0.319825556
+NT+,SI,2030,Planes,Electricity,0.0
+NT+,SI,2030,Planes,Hydrogen,0.0
+NT+,SI,2030,Planes,Liquids,0.005709444
+NT+,SI,2035,International aviation,Electricity,0.0
+NT+,SI,2035,International aviation,Hydrogen,0.0
+NT+,SI,2035,International aviation,Liquids,0.289710446
+NT+,SI,2035,Planes,Electricity,0.0
+NT+,SI,2035,Planes,Hydrogen,0.0
+NT+,SI,2035,Planes,Liquids,0.005171837
+NT+,SI,2040,International aviation,Electricity,0.0
+NT+,SI,2040,International aviation,Hydrogen,0.0
+NT+,SI,2040,International aviation,Liquids,0.280894083
+NT+,SI,2040,Planes,Electricity,0.0
+NT+,SI,2040,Planes,Hydrogen,0.0
+NT+,SI,2040,Planes,Liquids,0.00501445
+NT+,SI,2050,International aviation,Electricity,0.0
+NT+,SI,2050,International aviation,Hydrogen,0.0
+NT+,SI,2050,International aviation,Liquids,0.264058079
+NT+,SI,2050,Planes,Electricity,0.00096517
+NT+,SI,2050,Planes,Hydrogen,0.001078112
+NT+,SI,2050,Planes,Liquids,0.001679625
+NT+,SK,2030,International aviation,Electricity,0.0
+NT+,SK,2030,International aviation,Hydrogen,0.0
+NT+,SK,2030,International aviation,Liquids,0.529222222
+NT+,SK,2030,Planes,Electricity,0.0
+NT+,SK,2030,Planes,Hydrogen,0.0
+NT+,SK,2030,Planes,Liquids,0.0
+NT+,SK,2035,International aviation,Electricity,0.0
+NT+,SK,2035,International aviation,Hydrogen,0.0
+NT+,SK,2035,International aviation,Liquids,0.479390103
+NT+,SK,2035,Planes,Electricity,0.0
+NT+,SK,2035,Planes,Hydrogen,0.0
+NT+,SK,2035,Planes,Liquids,0.0
+NT+,SK,2040,International aviation,Electricity,0.0
+NT+,SK,2040,International aviation,Hydrogen,0.0
+NT+,SK,2040,International aviation,Liquids,0.464801477
+NT+,SK,2040,Planes,Electricity,0.0
+NT+,SK,2040,Planes,Hydrogen,0.0
+NT+,SK,2040,Planes,Liquids,0.0
+NT+,SK,2050,International aviation,Electricity,0.0
+NT+,SK,2050,International aviation,Hydrogen,0.0
+NT+,SK,2050,International aviation,Liquids,0.436942581
+NT+,SK,2050,Planes,Electricity,0.0
+NT+,SK,2050,Planes,Hydrogen,0.0
+NT+,SK,2050,Planes,Liquids,0.0
