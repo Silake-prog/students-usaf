@@ -5,6 +5,11 @@
 ## Objectif
 Étudier la trajectoire des **carburants de synthèse (e-fuels, dont l'eSAF)** dans les scénarios **TYNDP 2026** (ENTSO-E / ENTSOG) et ce qu'elle implique : quel volume d'eSAF, quels besoins amont (hydrogène, électricité, CO₂, eau), quel écart avec l'obligation européenne **ReFuelEU Aviation**. Le carnet est guidé pas à pas (pandas, matplotlib, numpy expliqués) et se termine par des exercices ouverts.
 
+
+## Classeur Excel à hypothèses modifiables
+
+`esaf_trajectoire_hypotheses.xlsx` (à la racine) reprend le calcul du carnet pour l'UE-27 **avec des formules Excel** : changez les cellules jaunes de la feuille `Hypothèses` (scénario NT+/HEV/LEV, rendements H₂→liquide et électricité→carburant, CO₂ lié, eau, règle d'affectation prorata / aviation d'abord, variation de la demande de l'aviation, ambition de l'obligation ReFuelEU) et les feuilles `Trajectoire` et `Besoins` se recalculent, graphique compris. Il est fabriqué par `notebooks/construire_excel.ipynb` (relancez-le pour le régénérer, par exemple après avoir modifié une donnée). Avec les hypothèses par défaut, il redonne les valeurs du carnet (part d'eSAF NT+ : 1,5 / 4,6 / 9,8 / 30,9 % en 2030 / 2035 / 2040 / 2050).
+
 ## Contenu
 | Partie | Contenu |
 |---|---|
